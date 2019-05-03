@@ -1,0 +1,53 @@
+.site-navigation {
+    --width: 16.66667vw;
+    position: absolute;
+    top: 0;
+    left: 0;
+    bottom: 0;
+    padding: 5.55556vw;
+    padding-right: 0;
+    width: var(--width);
+    z-index: 2;
+    font-size: 20px;
+}
+.site-navigation__logo {
+    -webkit-transition: color .2s cubic-bezier(.4,0,.2,1);
+    transition: color .2s cubic-bezier(.4,0,.2,1);
+    color: var(--c--hud-logo-foreground);
+    pointer-events: all;
+}
+.site-navigation__menu {
+    position: fixed;
+    width: var(--width);
+    left: 0;
+    padding-left: 5.55556vw;
+    bottom: 5.55556vw;
+    font-size: .5em;
+}
+.site-navigation__item {
+    margin-top: var(--spacing-unit);
+    &:first-child {
+        margin-top: 0;
+    }
+}
+.site-navigation__link {
+    letter-spacing: .3em;
+    text-transform: uppercase;
+    text-decoration: none;
+    -webkit-transition: color .2s cubic-bezier(.4,0,.2,1);
+    transition: color .2s cubic-bezier(.4,0,.2,1);
+    font-weight: 700;
+    border-bottom: none;
+    color: var(--c--grey);
+    line-height: 2.5;
+    display: block;
+}
+.site-navigation__link--active,
+.site-navigation__link:hover {
+    color: #fff;
+}
+@media (min-width: 1000px){
+    .site-navigation__link--active, .site-navigation__link:hover {
+        color: var(--c--hud-foreground);
+    }
+}

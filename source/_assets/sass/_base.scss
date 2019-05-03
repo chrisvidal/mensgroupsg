@@ -1,0 +1,157 @@
+// $brand-color: #bdc3c7;
+* {
+  -webkit-transition: all 0.2s ease;
+  -moz-transition:    all 0.2s ease;
+  -ms-transition:     all 0.2s ease;
+  -o-transition:      all 0.2s ease;
+    transition:      all 0.2s ease;
+    vertical-align: middle;
+    // position: relative;
+    background-repeat: no-repeat;
+    // margin: 0;
+    // padding: 0;
+    // border: 0;
+    // font: inherit;
+}
+
+body, html {
+    height: 100%;
+}
+html {
+    min-height: 100%;
+    overflow-y: scroll;
+    -webkit-text-size-adjust: none;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    font-smoothing: antialiased
+}
+body {
+    background-color: #000;
+    font-family: 'Muli', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: var(--font-size);
+    line-height: var(--line-height);
+}
+
+
+.a,
+a {
+    color: inherit;
+    cursor: pointer;
+    text-decoration: none;
+    border-bottom: .075em solid transparent;
+    -webkit-transition: border-bottom-color .5s cubic-bezier(0, 0, .2, 1);
+    transition: border-bottom-color .5s cubic-bezier(0, 0, .2, 1);
+    padding-bottom: .125em;
+    -webkit-transition-duration: .2s;
+    transition-duration: .2s;
+
+    &:hover {
+        border-bottom-color: 2px solid var(--c--foreground);
+    }
+
+    &:link {
+        -webkit-tap-highlight-color: var(--c--foreground)
+    }
+}
+
+.a--block {
+    display: block;
+    border: none;
+}
+.a--subtle {
+    color: inherit;
+    text-decoration: none;
+}
+
+img,
+video {
+    display: block;
+    max-width: 100%;
+    font-style: italic
+}
+
+code.hljs {
+
+    .hljs-comment,
+    .hljs-keyword,
+    .hljs-meta {
+
+    }
+}
+
+hr {
+    margin-top: 6em;
+}
+
+li {
+    ul,
+    ol {
+        margin-top: 0;
+    }
+}
+
+blockquote,
+.blockquote,
+.media,
+ol,
+p,
+ul {
+    margin-top: var(--spacing-unit);
+
+    &:first-child {
+        margin-top: 0
+    }
+}
+blockquote,
+caption,
+dd,
+dl,
+fieldset,
+figure,
+form,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+hr,
+legend,
+ol,
+p,
+pre,
+table,
+td,
+th,
+ul {
+    margin: 0;
+    padding: 0
+}
+ol,
+ul {
+    list-style: none;
+}
+b,
+strong {
+    font-weight: 700;
+}
+small {
+    font-size: 80%;
+}
+
+p {
+
+    @screen md {
+
+    }
+}
+
+pre {
+    code {
+    }
+}
+
+::selection {
+    }

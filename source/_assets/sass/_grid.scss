@@ -1,0 +1,25 @@
+.g {
+    display: grid;
+    grid-template-columns: repeat(18,1fr);
+}
+.g-item {
+    grid-column-start: 5;
+}
+.g-item, .g-item--sm {
+    grid-column-end: span 4;
+}
+.g-item--lg {
+    grid-column-end: span 9;
+}
+
+@media (min-width: 786px) {
+    .g .g-item--col-2 {
+        grid-column-start: 10;
+    }
+}
+@media (min-width: 786px) {
+    .g .g-item--half-2 {
+        grid-column-start: 11;
+        grid-column-end: span 7;
+    }
+}

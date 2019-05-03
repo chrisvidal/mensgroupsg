@@ -1,0 +1,39 @@
+:root {
+    --c--background: #1d1d1b;
+    --c--foreground: #fff;
+    --c--selected-background: #000;
+    --c--selected-color: #fff;
+    --c--hud-foreground: #fff;
+    --c--hud-selected-background: #000;
+    --c--hud-selected-color: #fff;
+    --c--hud-logo-foreground: #fff;
+    --c--hud-logo-selected-background: #000;
+    --c--hud-logo-selected-color: #fff;
+    --c--grey: #888;
+    --spacing-unit--small: 0.8em;
+    --spacing-unit: 1em;
+    --spacing-unit--large: 2em;
+    --spacing-unit--x-large: 4em;
+    --font-size: 20px;
+    --line-height: 1.5
+}
+
+@media (max-width:320px) {
+    :root {
+        --font-size: 18px
+    }
+}
+@media (max-width:999px) {
+    :root {
+        --spacing-unit--small: 0.5em;
+        --spacing-unit: 1em;
+        --spacing-unit--large: 1.5em;
+        --spacing-unit--x-large: 3em
+    }
+}
+@media (min-width:1000px) {
+    :root {
+        --font-size: 1.25vw;
+        --line-height: 1.8
+    }
+}
