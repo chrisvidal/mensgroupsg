@@ -7,7 +7,7 @@
     <div class="section__content">
         <div class="g">
             <div class="g-item g-item--lg">
-                <h1 class="h1">We are a group of men meeting on a regular basis with the explicit intention to support and challenge each other in a safe space.</h1>
+                <h1 class="h1">We are a group of men meeting on a regular basis with the explicit intention to support and challenge each other.</h1>
             </div>
         </div>
     </div>
@@ -15,15 +15,23 @@
     </div>
 </section>
 
-<section class="section intro intro--full">
+<section class="section intro intro--full ">
     <div class="section__content">
         <div class="g">
             <div class="g-item g-item--lg">
                 <div class="title">Philosophy</div>
-                <h1 class="h1">The group is open to any man willing to </h1>
-            </div> <!---->
+                <h1 class="h1">The group is open to any man willing to participate.</h1>
+                <p class="push-top--large">We all agree on this 5 agreements at the beginning of each meeting:</p>
+                <ul class="ul description push-top tr-basic tr-basic--enter">
+                    <li># phones to be switched off</li>
+                    <li># you honour yourself and your own boundaries</li>
+                    <li># you honour other men</li>
+                    <li># strict confidentiality</li>
+                    <li># no holding back, playing full out, you give your 100%</li>
+                </ul>
+            </div>
         </div>
-    </div> <!---->
+    </div>
 </section>
 
 
@@ -31,18 +39,23 @@
     <div class="section__content">
         <div class="g">
             <div class="g-item g-item--lg">
-                <div class="h2 tr-basic tr-basic--enter">Our approach</div>
+                <div class="h2 tr-basic tr-basic--enter">What we're about</div>
             </div>
             <div class="g-item push-top--large">
                 <div class="content__column tr-basic tr-basic--enter">
-                    <p>It’s quite common these days that agencies provide a ‘full service solution’, have hundreds of staff, and many layers to their organisation.<br>We do not.</p>
-                    <p>We pride ourselves on being specialists in design and engineering and approach projects collaboratively with our clients, concentrating all of our efforts and working on and communicating clearly with the people who pay us to do great work.</p>
+                    <p>In the world of #toxicmasculinity and #metoo, men are confused.</p>
+                    <p>When they do not have deep relationships with other men who can reflect back to them and challenge them, they bring back their emotional burden onto their life partner and family.</p>
+                    {{-- <p>We don't gather to watch a game but to have meaninfull discussions.</p> --}}
+                    <p class="push-top">A men's group is not counseling. It is not therapy. It is not religious.</p>
+                    <p class="push-top">In this same gender meetings, magic happens between men because of a certain validation and acceptance that occurs organically.</p>
                 </div>
             </div>
             <div class="g-item g-item--col-2 push-top--large">
                 <div class="content__column tr-basic tr-basic--enter">
-                    <p>Where as you may meet many sales people, heads of departments, marketing managers and CEO’s as part of your pitch process; the likelihood is that these may not be the people you actually deal with day-to-day on your project.</p>
-                    <p>The people you get to meet at Few and Far are the actual team you would deal with and work with until completion of your project - so if you like the people you meet, it could be a perfect match.</p>
+                    <p>Being seen and heard by another men create an authentic connection between them. Shared stories, successes and struggles speak to these men who have wrestled themselves with the same demons and angels.</p>
+                    <p class="push-top">It is a place of growth and integrity, and not a place to promote your business.</p>
+                    <p class="push-top">Developing relationships with other men doesn’t just happen - it takes intention and commitment.</p>
+                    <p class="push-top">Are you up to the challenge?</p>
                 </div>
             </div>
         </div>
@@ -54,12 +67,44 @@
         <div class="g">
             <div class="g-item g-item--lg">
                 <div class="title">What is a men's group</div>
-                <div class="h2 push-top--large">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-                    <br>
-                    <br>
-                    Men Need Men - a documentary about Men's Group (2019)
-                https://www.youtube.com/watch?v=OSMh6YonZbw
+                <div class="h2 push-top--large">
+                    Tal Ben-Shahar, Ph.D., writes in Happier:
+                </div>
+                <div class="g-item push-top--large">
+                    <div class="content__column tr-basic tr-basic--enter">
+                        <p>“Having people about whom we care and who care about us to share our lives with – to share the events and thoughts and feeling in our lives – intensifies our experience of meaning, consoles us in our pain, deepens our sense of delight in the world.”
+                        </p>
+                    </div>
+                    <p class="push-top--large">This is what a men’s group is.</p>
+                </div>
+                <div class="g-item push-top--x-large">
+                    <div class="h2 push-top--large">
+                        Men Need Men <small>- a 30min. documentary about Men's Group (2019)</small>
+                    </div>
+                    <div class="content__column tr-basic tr-basic--enter push-top--large">
+                        https://www.youtube.com/watch?v=OSMh6YonZbw
+                    </div>
+                </div>
+            </div>
+            <div class="g-item g-item--lg push-top--x-large">
+                <div class="h2 tr-basic tr-basic--enter">
+                    Some defining keywords
+                </div>
+            </div>
+            <div class="g-item g-item--lg">
+                <div class="list">
+                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">Acceptance</div>
+                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">Support</div>
+                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">Authenticity</div>
+                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">Connection</div>
+                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">Vulnerability<br>as a strength</div>
+                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">Active Listening</div>
+                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">Refining Masculinity</div>
+                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">Openness</div>
+                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">Self-Growth</div>
+                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">In tune with body</div>
+                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">In touch with feelings</div>
+                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">Better relationships</div>
                 </div>
             </div>
         </div>
@@ -81,25 +126,22 @@
             </div>
             <div class="g-item g-item--lg">
                 <div class="list">
-                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">Blue Cross</div>
-                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">CBI</div>
-                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">First Direct</div>
-                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">Bank Of England</div>
-                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">Channel 4</div>
-                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">BFI</div>
-                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">Disney</div>
-                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">The Coaching Manual</div>
-                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">The National Lottery</div>
-                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">Water Aid</div>
-                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">Volvo</div>
-                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">NSPCC</div>
+                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">Daniel</div>
+                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">Ian</div>
+                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">Jeffrey</div>
+                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">JT</div>
+                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">KK</div>
+                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">Naixiang</div>
+                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">Ratan</div>
+                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">Rene</div>
+                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">William</div>
                 </div>
             </div>
         </div>
     </div>
 </section>
 
-<section class="section contact-form" thresold="0.5,0.9">
+{{-- <section class="section contact-form" thresold="0.5,0.9">
     <div class="section__content">
         <div class="g">
             <div class="g-item g-item--lg">
@@ -129,7 +171,7 @@
             </div>
         </div>
     </div>
-</section>
+</section> --}}
 
 <div class="spacer"><div class="spacer__unit"></div><div class="spacer__unit"></div></div>
 

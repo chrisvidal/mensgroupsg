@@ -1,7 +1,7 @@
 <?php
 
 return [
-    'baseUrl' => 'http://mensgroupsg.local/',
+    'baseUrl' => 'http://localhost:3000/',
     'production' => false,
     'siteName' => "Men's Group Singapore",
     'siteDescription' => "Men's Group Singapore Website",

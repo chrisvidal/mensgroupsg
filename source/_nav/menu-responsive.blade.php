@@ -1,3 +1,9 @@
+<div class="site-navigation__mobile">
+    <div>
+        <div class="a site-navigation__link">Menu</div>
+    </div>
+</div>
+{{--
 <nav id="js-nav-menu" class="nav-menu hidden lg:hidden">
     <ul class="list-reset my-0">
         <li class="pl-4">
@@ -23,3 +29,4 @@
         </li>
     </ul>
 </nav>
+ --}}

@@ -12,6 +12,18 @@
     grid-column-end: span 9;
 }
 
+@media (max-width: 785px) {
+    .g .g-item {
+        grid-column-start: 2;
+        grid-column-end: span 15;
+    }
+}
+@media (max-width: 785px) {
+    .g .g-item--center, .g .g-item--lg {
+        grid-column-end: span 13;
+    }
+}
+
 @media (min-width: 786px) {
     .g .g-item--col-2 {
         grid-column-start: 10;

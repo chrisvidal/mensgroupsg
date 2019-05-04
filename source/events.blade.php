@@ -5,7 +5,7 @@
         <div class="section__content">
             <div class="g">
                 <div class="g-item g-item--lg">
-                    <h1 class="h1">We are a group of men meeting with the explicit intention to support and challenge each other in a safe space.</h1>
+                    <h1 class="h1">Coming Soon...</h1>
                 </div>
             </div>
         </div>
