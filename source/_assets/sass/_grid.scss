@@ -40,16 +40,24 @@
     display: grid;
     grid-template-columns: repeat(9, 1fr);
  }
-.book {
+.g-sub-item {
     grid-column-start: 1;
     grid-column-end: 5;
 }
-.book:nth-child(n+3){
-    @extend .push-top--large;
+.g-sub-item:nth-child(n+3){
+    @extend .push-top--x-large;
 }
 
-.book:nth-child(even) {
+.g-sub-item:nth-child(even) {
     grid-column-start: 6;
     grid-column-end: 10;
-
+}
+.image-content__copy {
+    img {
+        position: relative;
+        float: left;
+        width: auto;
+        height: 120px;
+        margin-right: .7em;
+    }
 }

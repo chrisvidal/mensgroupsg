@@ -660,11 +660,11 @@ h6 {
   margin-top: var(--spacing-unit);
 }
 
-.push-top--large, .book:nth-child(n+3) {
+.push-top--large {
   margin-top: var(--spacing-unit--large);
 }
 
-.push-top--x-large {
+.push-top--x-large, .g-sub-item:nth-child(n+3) {
   margin-top: var(--spacing-unit--x-large);
 }
 
@@ -734,14 +734,22 @@ h6 {
   grid-template-columns: repeat(9, 1fr);
 }
 
-.book {
+.g-sub-item {
   grid-column-start: 1;
   grid-column-end: 5;
 }
 
-.book:nth-child(even) {
+.g-sub-item:nth-child(even) {
   grid-column-start: 6;
   grid-column-end: 10;
+}
+
+.image-content__copy img {
+  position: relative;
+  float: left;
+  width: auto;
+  height: 120px;
+  margin-right: 0.7em;
 }
 
 .range {
