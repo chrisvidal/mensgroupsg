@@ -35,3 +35,21 @@
         grid-column-end: span 7;
     }
 }
+
+.g-sub {
+    display: grid;
+    grid-template-columns: repeat(9, 1fr);
+ }
+.book {
+    grid-column-start: 1;
+    grid-column-end: 5;
+}
+.book:nth-child(n+3){
+    @extend .push-top--large;
+}
+
+.book:nth-child(even) {
+    grid-column-start: 6;
+    grid-column-end: 10;
+
+}
