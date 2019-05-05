@@ -45,17 +45,17 @@
                         </div>
                     </div>
                     <div class="g-sub-item">
-                        <div class="h2"><a target="_blank" href="https://www.amazon.com/Trauma-Everyday-Life-Mark-Epstein/dp/0143125745" class="a a--subtle">The Trauma of Everyday Life</a></div>
-                        <div class="description push-top--large">by Mark Epstein M.D.</div>
-                        <div class="image-content__copy push-top--large">
-                            <p><img alt="" src="https://images-na.ssl-images-amazon.com/images/I/51UbpQTfKgL._SX324_BO1,204,203,200_.jpg"/>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A soluta minima voluptatum fugit necessitatibus, recusandae aut blanditiis qui ipsam fuga amet quidem asperiores aspernatur iure, accusantium unde in reprehenderit. Excepturi.</p>
-                        </div>
-                    </div>
-                    <div class="g-sub-item">
                         <div class="h2"><a target="_blank" href="https://www.amazon.com/Shambhala-Sacred-Path-Warrior-Classics-ebook/dp/B00HEN3JHW/" class="a a--subtle">Shambhala: The Sacred Path of the Warrior</a></div>
                         <div class="description push-top--large">by Chögyam Trungpa</div>
                         <div class="image-content__copy push-top--large">
                             <p><img alt="Shambhala: The Sacred Path of the Warrior (Shambhala Classics) by [Trungpa, Chogyam]" src="https://images-na.ssl-images-amazon.com/images/I/41D49i3-%2BBL.jpg">Lorem ipsum dolor sit amet, consectetur adipisicing elit. A soluta minima voluptatum fugit necessitatibus, recusandae aut blanditiis qui ipsam fuga amet quidem asperiores aspernatur iure, accusantium unde in reprehenderit. Excepturi.</p>
+                        </div>
+                    </div>
+                    <div class="g-sub-item">
+                        <div class="h2"><a target="_blank" href="https://www.amazon.com/Trauma-Everyday-Life-Mark-Epstein/dp/0143125745" class="a a--subtle">The Trauma of Everyday Life</a></div>
+                        <div class="description push-top--large">by Mark Epstein M.D.</div>
+                        <div class="image-content__copy push-top--large">
+                            <p><img alt="" src="https://images-na.ssl-images-amazon.com/images/I/51UbpQTfKgL._SX324_BO1,204,203,200_.jpg"/>Lorem ipsum dolor sit amet, consectetur adipisicing elit. A soluta minima voluptatum fugit necessitatibus, recusandae aut blanditiis qui ipsam fuga amet quidem asperiores aspernatur iure, accusantium unde in reprehenderit. Excepturi.</p>
                         </div>
                     </div>
                     <div class="g-sub-item">
