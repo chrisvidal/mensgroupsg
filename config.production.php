@@ -1,6 +1,6 @@
 <?php
 
 return [
-    'baseUrl' => 'http://mensgroupsg.info/',
+    'baseUrl' => 'https://mensgroupsg.info/',
     'production' => true,
 ];
