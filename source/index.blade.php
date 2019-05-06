@@ -53,7 +53,7 @@
             <div class="g-item g-item--col-2 push-top--large">
                 <div class="content__column tr-basic tr-basic--enter">
                     <p>Being seen and heard by another men create an authentic connection between them. Shared stories, successes and struggles speak to these men who have wrestled themselves with the same demons and angels.</p>
-                    <p class="push-top">It is a place of growth and integrity, and not a place to promote your business.</p>
+                    <p class="push-top">It is a place of growth and integrity, not a place to promote your business.</p>
                     <p class="push-top">Developing relationships with other men doesn’t just happen - it takes intention and commitment.</p>
                     <p class="push-top">Are you up to the challenge?</p>
                 </div>

@@ -618,7 +618,8 @@ h6 {
 .h4,
 .h5,
 .h6 {
-    font-size: 2em;
+    font-size: 1em;
+    line-height: 1.3;
   }
 }
 .title {
@@ -750,6 +751,25 @@ h6 {
   width: auto;
   height: 120px;
   margin-right: 0.7em;
+}
+
+.media-book {
+  display: grid;
+  grid-template-columns: 100px auto;
+  grid-template-rows: auto;
+}
+.media-book > img {
+  position: relative;
+  align-self: start;
+  width: auto;
+  height: 120px;
+  max-width: 100px;
+}
+.media-book > div {
+  vertical-align: top;
+}
+.media-book .description {
+  margin-top: 0.35rem;
 }
 
 .range {

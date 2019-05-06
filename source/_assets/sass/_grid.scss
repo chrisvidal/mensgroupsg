@@ -61,3 +61,27 @@
         margin-right: .7em;
     }
 }
+
+.media-book {
+    display: grid;
+    grid-template-columns: 100px auto;
+    grid-template-rows: auto;
+    // grid-column-gap: .9rem;
+    // padding: 1rem;
+
+    > img {
+        position: relative;
+        align-self: start;
+        width: auto;
+        height: 120px;
+        max-width: 100px;
+    }
+
+    > div {
+      vertical-align: top;
+    }
+
+    .description {
+        margin-top: .35rem;
+    }
+}
