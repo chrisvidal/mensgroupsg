@@ -14,42 +14,32 @@ pagination:
 
 @section('body')
 
+<?php
+    $publishedPosts = $posts->filter(function ($value, $key) use ($page) {
+            return $value->published == true;
+    });
+?>
     <section class="section intro section--full">
         <div class="section__content">
             <div class="g">
                 <div class="g-item g-item--lg">
                     <h1 class="h1">Blog</h1>
+                    <p class="blog__total">Total of {{ $publishedPosts->count() }} posts</p>
                 </div>
-                <div class="g-item push-top--large">
+                <div class="g-item g-item--lg push-top--large">
 
-                    <hr class="border-b push-bottom push-top">
+                    <div class="g-sub">
 
-                    @foreach ($pagination->items as $post)
-                        @if ($loop->index < 3)
+                        @foreach ($pagination->items as $post)
+                        <div class="g-sub-item">
+                            <hr class="border-b push-bottom push-top">
                             @include('_components.post-preview-inline')
+                        </div>
+                        @endforeach
 
-                            @if ($post != $pagination->items->last())
-                                <hr class="border-b push-bottom push-top">
-                            @endif
-                        @endif
-                    @endforeach
-
+                    </div>
                 </div>
 
-                <div class="g-item g-item--col-2 push-top--large">
-                    <hr class="border-b push-bottom push-top">
-
-                    @foreach ($pagination->items as $post)
-                        @if ($loop->index >= 3)
-                            @include('_components.post-preview-inline')
-
-                            @if ($post != $pagination->items->last())
-                                <hr class="border-b push-bottom push-top">
-                            @endif
-                        @endif
-                    @endforeach
-
-                </div>
 
                 <div class="g-item push-top--large">
 

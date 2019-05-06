@@ -14,7 +14,7 @@
                         <h2 class="h2 tr-basic tr-basic--enter">Social Networks</h2>
                     </div>
                     <div class="push-top--large tr-basic tr-basic--enter">
-                        <p>You can check us out on:</p>
+                        <p>You can also check us out on:</p>
                     </div>
                     <ul class="ul description push-top tr-basic tr-basic--enter">
                         <li>
