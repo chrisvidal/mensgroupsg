@@ -22,7 +22,7 @@
                 <div class="title">Philosophy</div>
                 <h1 class="h1">The group is open to any man willing to participate.</h1>
                 <p class="push-top--large">We all agree on this 5 agreements at the beginning of each meeting:</p>
-                <ul class="ul description push-top tr-basic tr-basic--enter">
+                <ul class="ul description push-top ">
                     <li># phones to be switched off</li>
                     <li># you honour yourself and your own boundaries</li>
                     <li># you honour other men</li>
@@ -39,10 +39,10 @@
     <div class="section__content">
         <div class="g">
             <div class="g-item g-item--lg">
-                <div class="h2 tr-basic tr-basic--enter">What we're about</div>
+                <div class="h2 ">What we're about</div>
             </div>
             <div class="g-item push-top--large">
-                <div class="content__column tr-basic tr-basic--enter">
+                <div class="content__column ">
                     <p>In the world of #toxicmasculinity and #metoo, men are confused.</p>
                     <p>When they do not have deep relationships with other men who can reflect back to them and challenge them, they bring back their emotional burden onto their life partner and family.</p>
                     {{-- <p>We don't gather to watch a game but to have meaninfull discussions.</p> --}}
@@ -51,7 +51,7 @@
                 </div>
             </div>
             <div class="g-item g-item--col-2 push-top--large">
-                <div class="content__column tr-basic tr-basic--enter">
+                <div class="content__column ">
                     <p>Being seen and heard by another men create an authentic connection between them. Shared stories, successes and struggles speak to these men who have wrestled themselves with the same demons and angels.</p>
                     <p class="push-top">It is a place of growth and integrity, not a place to promote your business.</p>
                     <p class="push-top">Developing relationships with other men doesn’t just happen - it takes intention and commitment.</p>
@@ -71,7 +71,7 @@
                     Tal Ben-Shahar, Ph.D., writes in Happier:
                 </div>
                 <div class="g-item push-top--large">
-                    <div class="content__column tr-basic tr-basic--enter">
+                    <div class="content__column ">
                         <p>“Having people about whom we care and who care about us to share our lives with – to share the events and thoughts and feeling in our lives – intensifies our experience of meaning, consoles us in our pain, deepens our sense of delight in the world.”
                         </p>
                     </div>
@@ -81,30 +81,33 @@
                     <div class="h2 push-top--large">
                         Men Need Men <small>- a 30min. documentary about Men's Group (2019)</small>
                     </div>
-                    <div class="content__column tr-basic tr-basic--enter push-top--large">
+                    <div class="content__column  push-top--large">
                         https://www.youtube.com/watch?v=OSMh6YonZbw
                     </div>
                 </div>
             </div>
             <div class="g-item g-item--lg push-top--x-large">
-                <div class="h2 tr-basic tr-basic--enter">
+                <div class="h2 ">
                     Some defining keywords
                 </div>
             </div>
             <div class="g-item g-item--lg">
                 <div class="list">
-                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">Acceptance</div>
-                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">Support</div>
-                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">Authenticity</div>
-                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">Connection</div>
-                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">Vulnerability<br>as a strength</div>
-                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">Active Listening</div>
-                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">Refining Masculinity</div>
-                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">Openness</div>
-                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">Self-Growth</div>
-                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">In tune with body</div>
-                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">In touch with feelings</div>
-                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">Better relationships</div>
+                    <div class="description list__item push-top--x-large">Acceptance</div>
+                    <div class="description list__item push-top--x-large">Self-awareness</div>
+                    <div class="description list__item push-top--x-large">Support</div>
+                    <div class="description list__item push-top--x-large">Authenticity</div>
+                    <div class="description list__item push-top--x-large">Connection</div>
+                    <div class="description list__item push-top--x-large">Active Listening</div>
+                    <div class="description list__item push-top--x-large">Refining Masculinity</div>
+                    <div class="description list__item push-top--x-large">Openness</div>
+                    <div class="description list__item push-top--x-large">Self-Growth</div>
+                    <div class="description list__item push-top--x-large">In tune with body</div>
+                    <div class="description list__item push-top--x-large">In touch with feelings</div>
+                    <div class="description list__item push-top--x-large">Better relationships</div>
+                    <div class="description list__item push-top--x-large">Integrity</div>
+                    <div class="description list__item push-top--x-large">Accountability</div>
+                    <div class="description list__item push-top--x-large">Vulnerability<br>as a strength</div>
                 </div>
             </div>
         </div>
@@ -115,12 +118,12 @@
     <div class="section__content">
         <div class="g">
             <div class="g-item">
-                <div class="title tr-basic tr-basic--enter">
+                <div class="title ">
                     Testimonials
                 </div>
             </div>
             <div class="g-item g-item--lg push-top--large">
-                <div class="h2 tr-basic tr-basic--enter">
+                <div class="h2 ">
                     <i>"The only way people change is through experiences"</i> - <small>William Blake</small>
                 </div>
             </div>
@@ -147,24 +150,24 @@
             <div class="g-item g-item--lg">
                 <form>
                     <div class="contact-form__fields">
-                        <div class="contact-form__row tr-basic tr-basic--enter">
+                        <div class="contact-form__row ">
                             <div class="contact-form__label">
                                 <div class="title">Email</div>
                             </div>
                             <input placeholder="Your email address">
                         </div>
-                        <div class="contact-form__row push-top tr-basic tr-basic--enter">
+                        <div class="contact-form__row push-top ">
                             <div class="contact-form__label">
                                 <div class="title">Subject</div>
                             </div>
                             <input placeholder="I was just on your website and...">
                         </div>
-                        <div class="contact-form__row push-top--x-large tr-basic tr-basic--enter">
+                        <div class="contact-form__row push-top--x-large ">
                             <textarea placeholder="I have an idea for a project and I’d like to speak to you about it." class="h1">
                             </textarea>
                         </div>
                     </div>
-                    <div class="push-top--x-large tr-basic tr-basic--enter">
+                    <div class="push-top--x-large ">
                         <button type="submit" class="contact-form__button">send</button>
                     </div>
                 </form>

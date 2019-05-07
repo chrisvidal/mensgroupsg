@@ -1049,6 +1049,33 @@ h6 {
   color: var(--c--grey);
 }
 
+.post .a,
+.post a {
+  border-bottom-color: 2px solid var(--c--foreground);
+}
+
+.markdown p {
+  line-height: 1.5;
+  margin-top: 1.25rem;
+  margin-bottom: 1.25rem;
+  color: #45658a;
+  font-size: 1.2rem;
+}
+.markdown a {
+  text-decoration: none;
+  color: #773580;
+  font-weight: 500;
+}
+.markdown code {
+  background-color: #f3f7f9;
+  display: inline;
+  line-height: 1.5;
+  color: #45658a;
+  font-size: 1.1rem;
+  padding: 3px 7px;
+  font-family: inherit;
+}
+
 .section {
   display: flex;
   align-items: center;

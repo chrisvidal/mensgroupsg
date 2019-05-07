@@ -7,6 +7,10 @@
     <meta property="og:description" content="{{ $page->description }}" />
 @endpush
 
+<?php
+    $page->layout = "post";
+?>
+
 @section('body')
 
 <section class="section intro section--full _text-on-black">

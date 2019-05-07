@@ -27,7 +27,7 @@
         <link rel="stylesheet" href="{{ mix('css/main.css', 'assets/build') }}">
     </head>
 
-    <body class="{{ $page->title }}">
+    <body class="{{ $page->slug }} {{ $page->layout }} {{ $page->layouttype }}">
 
         <div id="app">
 

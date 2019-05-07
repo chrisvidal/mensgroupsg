@@ -63,3 +63,36 @@
     font-size: 1rem;
     color: var(--c--grey);
 }
+
+.post {
+
+    .a,
+    a {
+        border-bottom-color: 2px solid var(--c--foreground);
+
+    }
+}
+.markdown {
+    p {
+        line-height: 1.5;
+        margin-top: 1.25rem;
+        margin-bottom: 1.25rem;
+        color: #45658a;
+        font-size: 1.2rem;
+    }
+    a {
+        text-decoration: none;
+        color: #773580;
+        font-weight: 500;
+    }
+    code {
+        background-color: #f3f7f9;
+        display: inline;
+        line-height: 1.5;
+        color: #45658a;
+        font-size: 1.1rem;
+        // width: 80%;
+        padding: 3px 7px;
+        font-family: inherit;
+    }
+}
