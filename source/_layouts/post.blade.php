@@ -23,9 +23,9 @@
                     <img src="{{ $page->cover_image }}" alt="{{ $page->title }} cover image" class="mb-2">
                 @endif
 
-                <h1 class="leading-none mb-2">{{ $page->title }}</h1>
+                <h2 class="h2">{{ $page->title }}</h2>
 
-                <p class="text-grey-darker text-xl md:mt-0">{{ $page->author }}  •  {{ date('F j, Y', $page->date) }}</p>
+                <p class="description push-top--large"><small>{{ $page->author }} ~ {{ date('F j, Y', $page->date) }}</small></p>
 
                 @if ($page->categories)
                     @foreach ($page->categories as $i => $category)
@@ -37,7 +37,7 @@
                     @endforeach
                 @endif
 
-                <div class="border-b border-blue-lighter mb-10 pb-4" v-pre>
+                <div class="image-content__copy push-top--large" v-pre>
                     @yield('content')
                 </div>
 

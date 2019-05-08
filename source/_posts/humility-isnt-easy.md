@@ -4,7 +4,7 @@ section: content
 title: Humility isn't easy
 date: 2019-04-06
 description: Humility isn't easy.
-cover_image: /assets/img/post-cover-image-2.png
+cover_image: /assets/img/post-humility-cover-unsplash.jpg
 categories: [quality]
 layouttype: markdown
 ---

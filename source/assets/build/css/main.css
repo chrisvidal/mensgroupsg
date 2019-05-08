@@ -1122,11 +1122,6 @@ button.scroll_down:before {
   color: var(--c--grey);
 }
 
-.post .a,
-.post a {
-  border-bottom-color: 2px solid var(--c--foreground);
-}
-
 .markdown .site-container__content p {
   line-height: 1.5;
   margin-top: 1.25rem;
