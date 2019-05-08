@@ -65,19 +65,18 @@
 }
 
 .post {
-
     .a,
     a {
         border-bottom-color: 2px solid var(--c--foreground);
 
     }
 }
-.markdown {
+.markdown .site-container__content {
     p {
         line-height: 1.5;
         margin-top: 1.25rem;
         margin-bottom: 1.25rem;
-        color: #45658a;
+        // color: #45658a;
         font-size: 1.2rem;
     }
     a {

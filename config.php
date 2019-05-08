@@ -51,6 +51,9 @@ return [
     'isActive' => function ($page, $path) {
         return ends_with(trimPath($page->getPath()), trimPath($path));
     },
+    'isBlogArticle' => function ($page, $path) {
+        return str_contains(trimPath($page->getPath()), trimPath($path));
+    },
     'isActiveParent' => function ($page, $menuItem) {
         if (is_object($menuItem) && $menuItem->children) {
             return $menuItem->children->contains(function ($child) use ($page) {

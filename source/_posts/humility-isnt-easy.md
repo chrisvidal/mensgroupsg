@@ -20,8 +20,12 @@ It reminds me the great inspiring men that I've the fortune to met during my lif
 As I was sharing with a man from the men's group over a cup of coffee last week, all the great men I met in real life share this similar quality of being transparent. They don't hide anything. From themself first. From others as well. It is a direct perceivable experience in being in their presence. It creates a massive sense of trust. Trust of being seen and accepted as I was, for as there is nothing they didn't see before seeing me.
 From this trust is flowing opening.
 
-Humility is very similar to apologizing.
+Humility owns something similar to apologizing.
 You have to own it and process it openly to be able to bring it all up again.
 Both requires a level of vulnerability.
 
 “Vulnerability sounds like truth and feels like courage. Truth and courage aren’t always comfortable, but they’re never weakness.” — Brene Brown
+
+What comes in the way of humility?
+Pride
+Embarassment

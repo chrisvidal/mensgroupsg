@@ -3,6 +3,12 @@ pagination:
     collection: posts
     perPage: 6
 ---
+
+<?php
+    $page->layout = "blog";
+    $page->layouttype = "markdown";
+?>
+
 @extends('_layouts.master')
 
 @push('meta')
@@ -24,7 +30,7 @@ pagination:
             <div class="g">
                 <div class="g-item g-item--lg">
                     <h1 class="h1">Blog</h1>
-                    <p class="blog__total">Total of {{ $publishedPosts->count() }} posts</p>
+                    <p class="blog__total">Total of {{ $pagination->items->count() }} posts</p>
                 </div>
                 <div class="g-item g-item--lg push-top--large">
 

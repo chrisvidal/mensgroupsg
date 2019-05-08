@@ -8,6 +8,7 @@
         <div class="g">
             <div class="g-item g-item--lg">
                 <h1 class="h1">We are a group of men meeting on a regular basis with the explicit intention to support and challenge each other.</h1>
+                <button type="button" class="scroll_down" id="scroll_down"></button>
             </div>
         </div>
     </div>
