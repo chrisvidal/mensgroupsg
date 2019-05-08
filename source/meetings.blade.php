@@ -37,8 +37,8 @@
                 <div class="content__column ">
                     <div class="h2">Monthly Meetings</div>
                     <div class="push-top--large">
-                        <p>A monthly more casual meeting is held in a coffee shop.</p>
-                        <p>Usu</p>
+                        <p>A monthly more casual meeting is held in a coffee shop around a specific masculine topic.</p>
+                        <p>It can be relationships, feminine masculine polarity, masculine qualities, ...</p>
                         <p class="push-top"></p>
                     </div>
                 </div>
