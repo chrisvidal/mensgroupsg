@@ -6,7 +6,7 @@
         <div class="g">
             <div class="g-item g-item--lg">
                 {{-- <div class="title">Meetings</div> --}}
-                <h1 class="h1">The group is open to any man willing to participate.</h1>
+                <h1 class="h1">The group is open to any man of any age willing to participate.</h1>
                 <button type="button" class="scroll_down" id="scroll_down"></button>
             </div>
         </div>
@@ -42,6 +42,28 @@
                         <p class="push-top"></p>
                     </div>
                 </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<section class="section intro intro--full ">
+    <div class="section__content">
+        <div class="g">
+            <div class="g-item g-item--lg">
+                <div class="title">So, what happens at a meeting?</div>
+                <h1 class="h1">The group is open to any man willing to participate.</h1>
+                <p class="push-top--large">Typical timeline to expect for the evening:</p>
+                <ul class="ul description push-top ">
+                    <li># agreeing to the 4 agreements</li>
+                    <li># few minutes of silence to 'leave the world behind'</li>
+                    <li># introducing new members if relevant</li>
+                    <li># embodied practices, martial art practices, breathe work, meditation</li>
+                    <li># 5min life check-in</li>
+                    <li># eye contact practices, sharing practices, meditation, discussion on a specific subject, open floor,…and anything that feels </li>important at the moment
+                    <li># and a final round of check-in with everyone</li>
+                </ul>
             </div>
         </div>
     </div>

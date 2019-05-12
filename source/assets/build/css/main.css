@@ -650,6 +650,10 @@ h6 {
   text-align: center;
 }
 
+.text-right {
+  text-align: right;
+}
+
 .h100 {
   height: 100%;
 }
@@ -1321,8 +1325,8 @@ button.scroll_down:before {
 }
 @media (min-width: 1000px) {
   .site-footer__copyright {
-    grid-column-start: 12;
-    grid-column-end: span 1;
+    grid-column-start: 5;
+    grid-column-end: span 7;
   }
 }
 @media (min-width: 1000px) {
