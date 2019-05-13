@@ -35,10 +35,10 @@
             </div>
             <div class="g-item g-item--col-2 push-top--large">
                 <div class="content__column ">
-                    <div class="h2">Monthly Meetings</div>
+                    <div class="h2">Monthly Meetings (Coming soon...)</div>
                     <div class="push-top--large">
                         <p>A monthly more casual meeting is held in a coffee shop around a specific masculine topic.</p>
-                        <p>It can be relationships, feminine masculine polarity, masculine qualities, ...</p>
+                        <p>It can be relationships, feminine/masculine polarity, masculine qualities, masculine practice...</p>
                         <p class="push-top"></p>
                     </div>
                 </div>
@@ -54,14 +54,13 @@
             <div class="g-item g-item--lg">
                 <div class="title">So, what happens at a meeting?</div>
                 <h1 class="h1">The group is open to any man willing to participate.</h1>
-                <p class="push-top--large">Typical timeline to expect for the evening:</p>
+                <p class="push-top--large">Typical timeline to expect for the meeting:</p>
                 <ul class="ul description push-top ">
                     <li># agreeing to the 4 agreements</li>
-                    <li># few minutes of silence to 'leave the world behind'</li>
-                    <li># introducing new members if relevant</li>
-                    <li># embodied practices, martial art practices, breathe work, meditation</li>
-                    <li># 5min life check-in</li>
-                    <li># eye contact practices, sharing practices, meditation, discussion on a specific subject, open floor,…and anything that feels </li>important at the moment
+                    <li># few minutes of settling in with breathe work or meditation to 'leave the world behind'</li>
+                    <li># 5 min life check-in per man</li>
+                    <li># 15 min open floor per willing man (for any considerations, any sharing, any subject to explore) </li>
+                    <li># depending on the previous point and what feels right in the moment, some practices can be engaged </li>
                     <li># and a final round of check-in with everyone</li>
                 </ul>
             </div>
