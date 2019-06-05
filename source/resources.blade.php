@@ -15,7 +15,7 @@
     <div class="section__content">
         <div class="g">
             <div class="g-item g-item--lg">
-                <h1 class="h1">Documentary, Books, Articles, Friends, Men's groups around the world, Quotes...</h1>
+                <h1 class="h1">Documentary, Books,...</h1>
                 <button type="button" class="scroll_down" id="scroll_down"></button>
             </div>
         </div>
