@@ -3,9 +3,10 @@
 
 @section('side_navigation')
 <ul>
-    <li class="site-navigation__item"><a href="#why" class="a site-navigation__link scroll"># why?</a></li>
+    <li class="site-navigation__item"><a href="#why" class="a site-navigation__link scroll"># why joining?</a></li>
     <li class="site-navigation__item"><a href="#philosophy" class="a site-navigation__link scroll"># philosophy</a></li>
     <li class="site-navigation__item"><a href="#what" class="a site-navigation__link scroll"># what is it?</a></li>
+    <li class="site-navigation__item"><a href="#testimonials" class="a site-navigation__link scroll"># testimonials</a></li>
 </ul>
 @endsection
 
@@ -57,30 +58,23 @@
     </div>
 </section>
 
-<section class="section intro intro--full" id="philosophy">
+{{-- <section class="section intro intro--full" id="philosophy">
     <div class="section__content">
         <div class="g">
             <div class="g-item g-item--lg">
                 <div class="title">Philosophy</div>
                 <h1 class="h2">The group is open to any man willing to participate.</h1>
-                <p class="push-top">We all agree on this 4 agreements at the beginning of each meeting:</p>
-                <ul class="ul description push-top ">
-                    {{-- <li># phones to be switched off</li> --}}
-                    <li># you honour yourself and your own boundaries</li>
-                    <li># you honour other men</li>
-                    <li># strict confidentiality</li>
-                    <li># no holding back, playing full out, you give your 100%</li>
-                </ul>
             </div>
         </div>
     </div>
-</section>
+</section> --}}
 
 
-<section class="section content" id="">
+<section class="section content intro intro--full" id="philosophy">
     <div class="section__content">
         <div class="g">
             <div class="g-item g-item--lg">
+                <div class="title">Philosophy</div>
                 <div class="h2 ">What we're about</div>
             </div>
             <div class="g-item push-top--large">
@@ -104,7 +98,7 @@
     </div>
 </section>
 
-<section class="section header" id="what">
+<section class="section " id="what">
     <div class="section__content">
         <div class="g">
             <div class="g-item g-item--lg">
@@ -117,7 +111,7 @@
                         <p>“Having people about whom we care and who care about us to share our lives with – to share the events and thoughts and feeling in our lives – intensifies our experience of meaning, consoles us in our pain, deepens our sense of delight in the world.”
                         </p>
                     </div>
-                    <p class="push-top--large">This is what a men’s group is.</p>
+                    {{-- <p class="push-top--large">This is what a men’s group is.</p> --}}
                 </div>
             </div>
             <div class="g-item g-item--lg push-top--x-large">
@@ -148,7 +142,7 @@
     </div>
 </section>
 
-<section class="section section--full intro">
+<section class="section section--full intro" id="testimonials">
     <div class="section__content">
         <div class="g">
             <div class="g-item">
