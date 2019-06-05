@@ -1,5 +1,12 @@
 @extends('_layouts.master')
 
+@section('side_navigation')
+<ul>
+    <li class="site-navigation__item"><a href="#meetings" class="a site-navigation__link scroll"># meetings</a></li>
+    <li class="site-navigation__item"><a href="#happens" class="a site-navigation__link scroll"># what happens?</a></li>
+</ul>
+@endsection
+
 @section('body')
 <section class="section intro section--full ">
     <div class="section__content">
@@ -13,13 +20,13 @@
     </div>
 </section>
 
-<section class="section header">
+<section class="section header" id="meetings">
     <div class="section__content">
         <div class="g">
             <div class="g-item g-item--lg">
                 <div class="title">Meetings</div>
             </div>
-            <div class="g-item push-top--large">
+            <div class="g-item g-item--lg push-top--large">
                 <div class="content__column ">
                     <div class="h2">Weekly Meetings</div>
                     <div class="push-top--large">
@@ -33,7 +40,7 @@
                         <li>Comfy clothes</li><li>Notebook</li><li>Pen</li><li>Water Bottle</li></ul>
                 </div>
             </div>
-            <div class="g-item g-item--col-2 push-top--large">
+            {{-- <div class="g-item g-item--col-2 push-top--large">
                 <div class="content__column ">
                     <div class="h2">Monthly Meetings (Coming soon...)</div>
                     <div class="push-top--large">
@@ -42,13 +49,13 @@
                         <p class="push-top"></p>
                     </div>
                 </div>
-            </div>
+            </div> --}}
         </div>
     </div>
 </section>
 
 
-<section class="section intro intro--full ">
+<section class="section intro intro--full" id="happens">
     <div class="section__content">
         <div class="g">
             <div class="g-item g-item--lg">

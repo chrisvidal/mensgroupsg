@@ -1,12 +1,21 @@
 @extends('_layouts.master')
 
+
+@section('side_navigation')
+<ul>
+    <li class="site-navigation__item"><a href="#documentary" class="a site-navigation__link scroll"># documentary</a></li>
+    <li class="site-navigation__item"><a href="#books" class="a site-navigation__link scroll"># books</a></li>
+</ul>
+@endsection
+
+
 @section('body')
 
 <section class="section intro section--full">
     <div class="section__content">
         <div class="g">
             <div class="g-item g-item--lg">
-                <h1 class="h1">Books, articles, videos, friends, men's groups, quotes...</h1>
+                <h1 class="h1">Documentary, Books, Articles, Friends, Men's groups around the world, Quotes...</h1>
                 <button type="button" class="scroll_down" id="scroll_down"></button>
             </div>
         </div>
@@ -15,8 +24,24 @@
     </div>
 </section>
 
+<section class="section header" id="documentary">
+    <div class="section__content">
+        <div class="g">
+            <div class="g-item g-item--lg">
+                <div class="g-item push-top--x-large">
+                    <div class="h2 push-top--large">
+                        Men Need Men <small>- a 30min. documentary about Men's Group (2019)</small>
+                    </div>
+                    <div class="content__column  push-top--large">
+                        <iframe width="650" height="365" src="https://www.youtube.com/embed/OSMh6YonZbw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
-<section class="section content section--full intro">
+<section class="section content section--full intro" id="books">
     <div class="section__content">
         <div class="g">
             <div class="g-item g-item--lg">
@@ -105,11 +130,12 @@
     <div class="spacer__unit"></div>
 </div>
 
-<section class="section section--full intro">
+{{-- <section class="section section--full intro" id="articles">
     <div class="section__content">
         <div class="g">
             <div class="g-item g-item--lg">
                 <div class="title">Articles</div>
+                <h1>Coming soon...</h1>
             </div>
             <div class="g-item push-top--large">
                 <div class="content__column  ">
@@ -141,6 +167,6 @@
             </div>
         </div>
     </div>
-</section>
+</section> --}}
 
 @endsection

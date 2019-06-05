@@ -1,7 +1,16 @@
 @extends('_layouts.master')
 
-@section('body')
 
+@section('side_navigation')
+<ul>
+    <li class="site-navigation__item"><a href="#why" class="a site-navigation__link scroll"># why?</a></li>
+    <li class="site-navigation__item"><a href="#philosophy" class="a site-navigation__link scroll"># philosophy</a></li>
+    <li class="site-navigation__item"><a href="#what" class="a site-navigation__link scroll"># what is it?</a></li>
+</ul>
+@endsection
+
+
+@section('body')
 <section class="section intro section--full _text-on-black">
     {{-- <div class="intro__image"></div> --}}
     <div class="section__content">
@@ -16,32 +25,45 @@
     </div>
 </section>
 
-<section class="section intro intro--full ">
+<section class="section intro section--full _text-on-black">
+    {{-- <div class="intro__image"></div> --}}
+    <div class="section__content">
+        <div class="g">
+            <div class="g-item g-item--lg">
+                <h1 class="h1">How inspired, encouraged, challenged and supported are you by your peer group?</h1>
+            </div>
+        </div>
+    </div>
+    <div class="section__overlay" style="opacity: 0;">
+    </div>
+</section>
+
+<section class="section intro intro--full" id="why">
     <div class="section__content">
         <div class="g">
             <div class="g-item g-item--lg">
                 <div class="title">So, why joining a men's group?</div>
-                <h1 class="h1">The group is open to any man willing to participate.</h1>
-                <p class="push-top--large">A men's group is for you if you are looking:</p>
+                {{-- <h1 class="h1">The group is open to any man willing to participate.</h1> --}}
+                <p class="push-top--large">A men's group is for you if you are looking for:</p>
                 <ul class="ul description push-top ">
-                    <li># for connection and authenticity</li>
+                    <li># authenticity and connection</li>
                     <li># a safe place where you can be real</li>
-                    <li># to help each other to be the best men we can be</li>
-                    <li># strict confidentiality</li>
-                    <li># no holding back, playing full out, you give your 100%</li>
+                    <li># helping each other to be the best men we can be</li>
+                    <li># being inspired by other men</li>
+                    <li># strengthening your intimate relationships</li>
                 </ul>
             </div>
         </div>
     </div>
 </section>
 
-<section class="section intro intro--full ">
+<section class="section intro intro--full" id="philosophy">
     <div class="section__content">
         <div class="g">
             <div class="g-item g-item--lg">
                 <div class="title">Philosophy</div>
-                <h1 class="h1">The group is open to any man willing to participate.</h1>
-                <p class="push-top--large">We all agree on this 4 agreements at the beginning of each meeting:</p>
+                <h1 class="h2">The group is open to any man willing to participate.</h1>
+                <p class="push-top">We all agree on this 4 agreements at the beginning of each meeting:</p>
                 <ul class="ul description push-top ">
                     {{-- <li># phones to be switched off</li> --}}
                     <li># you honour yourself and your own boundaries</li>
@@ -55,7 +77,7 @@
 </section>
 
 
-<section class="section content">
+<section class="section content" id="">
     <div class="section__content">
         <div class="g">
             <div class="g-item g-item--lg">
@@ -63,8 +85,8 @@
             </div>
             <div class="g-item push-top--large">
                 <div class="content__column ">
-                    <p>In the world of #toxicmasculinity and #metoo, men are confused.</p>
-                    <p>When they do not have deep relationships with other men who can reflect back to them and challenge them, they bring back their emotional burden onto their life partner and family.</p>
+                    <p>In a world of #toxicmasculinity and #metoo, men are confused.</p>
+                    <p>When they do not have deep relationships with other men who can reflect back to them and challenge them, they bring back their emotional burden onto their life partner, family and work environment.</p>
                     {{-- <p>We don't gather to watch a game but to have meaninfull discussions.</p> --}}
                     <p class="push-top">A men's group is not counseling. It is not therapy. It is not religious.</p>
                     <p class="push-top">In this same gender meetings, magic happens between men because of a certain validation and acceptance that occurs organically.</p>
@@ -82,7 +104,7 @@
     </div>
 </section>
 
-<section class="section header">
+<section class="section header" id="what">
     <div class="section__content">
         <div class="g">
             <div class="g-item g-item--lg">
@@ -96,14 +118,6 @@
                         </p>
                     </div>
                     <p class="push-top--large">This is what a men’s group is.</p>
-                </div>
-                <div class="g-item push-top--x-large">
-                    <div class="h2 push-top--large">
-                        Men Need Men <small>- a 30min. documentary about Men's Group (2019)</small>
-                    </div>
-                    <div class="content__column  push-top--large">
-                        https://www.youtube.com/watch?v=OSMh6YonZbw
-                    </div>
                 </div>
             </div>
             <div class="g-item g-item--lg push-top--x-large">
@@ -147,7 +161,7 @@
                     <i>"The only way people change is through experiences"</i> - <small>William Blake</small>
                 </div>
             </div>
-            <div class="g-item g-item--lg">
+            {{-- <div class="g-item g-item--lg">
                 <div class="list">
                     <div class="description tr-basic list__item push-top--x-large tr-basic--enter">Daniel</div>
                     <div class="description tr-basic list__item push-top--x-large tr-basic--enter">Ian</div>
@@ -159,7 +173,7 @@
                     <div class="description tr-basic list__item push-top--x-large tr-basic--enter">Rene</div>
                     <div class="description tr-basic list__item push-top--x-large tr-basic--enter">William</div>
                 </div>
-            </div>
+            </div> --}}
         </div>
     </div>
 </section>

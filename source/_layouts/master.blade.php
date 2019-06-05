@@ -43,7 +43,8 @@
 
                 <div class="site-container__background-outer">
                     <div class="site-container__background-inner">
-                        <div class="site-container__background" style=""></div>
+                        <div class="site-container__background text-on-black">
+                        </div>
                     </div>
                 </div>
 
@@ -55,6 +56,10 @@
                     @include('_components.logo')
                     @include('_nav.menu-responsive', ['items' => $page->navigation])
                     @include('_nav.menu', ['items' => $page->navigation])
+
+                    <div class="site-side_navigation__menu text-on-black">
+                        @yield('side_navigation')
+                    </div>
                 </div>
 
             </div>
