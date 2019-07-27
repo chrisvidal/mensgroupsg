@@ -15,7 +15,7 @@ pagination:
     <meta property="og:title" content="{{ $page->siteName }} Articles" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="{{ $page->getUrl() }}"/>
-    <meta property="og:description" content="The list of blog articles for {{ $page->siteName }}" />
+    <meta property="og:description" content="The list of articles for {{ $page->siteName }}" />
 @endpush
 
 @section('body')

@@ -22,6 +22,20 @@
 .h100 {
     height: 100%
 }
+.w-50 {
+    width: 50%;
+}
+.mx-auto {
+    margin: 0 auto;
+}
+.post hr {
+    height: 2px;
+    background-color: var(--c--logo-background);
+    margin-top: var(--spacing-unit--large);
+    width: 70px;
+    position: relative;
+    border: none;
+}
 .relative {
     position: relative
 }

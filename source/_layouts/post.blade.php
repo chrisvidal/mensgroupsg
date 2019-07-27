@@ -19,9 +19,9 @@
         <div class="g">
             <div class="g-item g-item--lg push-top--x-large">
 
-                @if ($page->cover_image)
+{{--                 @if ($page->cover_image)
                     <img src="{{ $page->cover_image }}" alt="{{ $page->title }} cover image" class="mb-2">
-                @endif
+                @endif --}}
 
                 <h2 class="h2">{{ $page->title }}</h2>
 
@@ -42,6 +42,8 @@
                 <div class="image-content__copy push-top--large" v-pre>
                     @yield('content')
                 </div>
+
+                <hr/>
 
                 {{-- <nav class="flex justify-between text-sm md:text-base">
                     <div>

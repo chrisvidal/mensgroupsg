@@ -7,19 +7,43 @@
     <meta property="og:description" content="{{ $page->description }}" />
 @endpush
 
+<?php
+    $page->layout = "category";
+?>
+
 @section('body')
-    <h1>{{ $page->title }}</h1>
+<section class="section intro section--full">
+        <div class="section__content">
+            <div class="g">
+                <div class="g-item g-item--lg">
 
-    <div class="text-2xl border-b border-blue-lighter mb-6 pb-10">
-        @yield('content')
-    </div>
+                    <h1 class="h1">{{ $page->title }}</h1>
+                    <p class="blog__total">Total of {{ $page->posts($posts)->count() }} articles</p>
 
-    @foreach ($page->posts($posts) as $post)
-        @include('_components.post-preview-inline')
+                    <div class="text-2xl border-b border-blue-lighter mb-6 pb-10">
+                        @yield('content')
+                    </div>
+                </div>
+                <div class="g-item g-item--lg push-top--large">
 
-        @if (! $loop->last)
-            <hr class="w-full border-b mt-2 mb-6">
-        @endif
-    @endforeach
+                    <div class="g-sub">
+
+                        @foreach ($page->posts($posts) as $post)
+                            <div class="g-sub-item">
+                                <hr class="border-b push-bottom push-top">
+                                @include('_components.post-preview-inline')
+
+                                @if (! $loop->last)
+                                    <hr class="w-full border-b mt-2 mb-6">
+                                @endif
+                            </div>
+                        @endforeach
+                    </div>
+                </div>
+            </div>
+        <div class="section__overlay" style="opacity: 0;">
+        </div>
+    </section>
+
 
 @stop
