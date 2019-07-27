@@ -28,20 +28,22 @@
                 <p class="description push-top--large"><small>{{ $page->author }} ~ {{ date('F j, Y', $page->date) }}</small></p>
 
                 @if ($page->categories)
+                <small>[
                     @foreach ($page->categories as $i => $category)
                         <a
-                            href="{{ '/blog/categories/' . $category }}"
-                            title="View posts in {{ $category }}"
+                            href="{{ '/articles/categories/' . $category }}"
+                            title="View articles in {{ $category }}"
                             class="inline-block bg-grey-light hover:bg-blue-lighter leading-loose tracking-wide text-grey-darkest uppercase text-xs font-semibold rounded mr-4 px-3 pt-px"
                         >{{ $category }}</a>
                     @endforeach
+                    ]</small>
                 @endif
 
                 <div class="image-content__copy push-top--large" v-pre>
                     @yield('content')
                 </div>
 
-                <nav class="flex justify-between text-sm md:text-base">
+                {{-- <nav class="flex justify-between text-sm md:text-base">
                     <div>
                         @if ($next = $page->getNext())
                             <a href="{{ $next->getUrl() }}" title="Older Post: {{ $next->title }}">
@@ -57,7 +59,7 @@
                             </a>
                         @endif
                     </div>
-                </nav>
+                </nav> --}}
 
             </div>
         </div>

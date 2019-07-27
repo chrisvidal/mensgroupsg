@@ -2,7 +2,8 @@
 extends: _layouts.post
 section: content
 title: Humility isn't easy
-date: 2019-04-06
+published: false
+date: 2019-06-04
 description: Humility isn't easy.
 cover_image: /assets/img/post-humility-cover-unsplash.jpg
 categories: [quality]

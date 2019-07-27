@@ -12,16 +12,16 @@ pagination:
 @extends('_layouts.master')
 
 @push('meta')
-    <meta property="og:title" content="{{ $page->siteName }} Blog" />
+    <meta property="og:title" content="{{ $page->siteName }} Articles" />
     <meta property="og:type" content="website" />
     <meta property="og:url" content="{{ $page->getUrl() }}"/>
-    <meta property="og:description" content="The list of blog posts for {{ $page->siteName }}" />
+    <meta property="og:description" content="The list of blog articles for {{ $page->siteName }}" />
 @endpush
 
 @section('body')
 
 <?php
-    $publishedPosts = $posts->filter(function ($value, $key) use ($page) {
+    $publishedPosts = $pagination->items->filter(function ($value, $key) use ($page) {
             return $value->published == true;
     });
 ?>
@@ -29,14 +29,14 @@ pagination:
         <div class="section__content">
             <div class="g">
                 <div class="g-item g-item--lg">
-                    <h1 class="h1">Blog</h1>
-                    <p class="blog__total">Total of {{ $pagination->items->count() }} posts</p>
+                    <h1 class="h1">Articles</h1>
+                    <p class="blog__total">Total of {{ $publishedPosts->count() }} articles</p>
                 </div>
                 <div class="g-item g-item--lg push-top--large">
 
                     <div class="g-sub">
 
-                        @foreach ($pagination->items as $post)
+                        @foreach ($publishedPosts as $post)
                         <div class="g-sub-item">
                             <hr class="border-b push-bottom push-top">
                             @include('_components.post-preview-inline')

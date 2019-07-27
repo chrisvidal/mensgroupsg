@@ -12,6 +12,6 @@ return [
     'Meetings' => '/meetings',
     'Events' => '/events',
     'Resources' => '/resources',
-    'Blog' => '/blog',
+    'Articles' => '/articles',
     'Contact' => '/contact',
 ];
