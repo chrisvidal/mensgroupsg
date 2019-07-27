@@ -10,7 +10,7 @@ categories: [men's group]
 author: Yong Kang
 layouttype: markdown
 ---
-There is this Japanese saying, Ichigo Ichie, which means “Treasure every meeting, for it will never occur again.” This saying reminds me of [The Men’s Group Singapore](https://www.meetup.com/The-Mens-Group-Singapore/).
+There is this Japanese saying, Ichigo Ichie, which means “Treasure every meeting, for it will never occur again.” This saying reminds me of <a class="a a--in-text" href="https://www.meetup.com/The-Mens-Group-Singapore/" target="_blank">The Men’s Group Singapore</a>.
 
 
 As of June 2019, I have attended eight meetups and I must say that every meetup is different. Even though we did similar things each time such as body check-ins, meditation, sharing and discussion, each time it felt different.
