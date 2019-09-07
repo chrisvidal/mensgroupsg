@@ -136,6 +136,7 @@
                     <div class="description list__item push-top--x-large">Integrity</div>
                     <div class="description list__item push-top--x-large">Accountability</div>
                     <div class="description list__item push-top--x-large">Vulnerability<br>as a strength</div>
+                    <div class="description list__item push-top--x-large">Meeting your edge</div>
                 </div>
             </div>
         </div>
@@ -150,14 +151,28 @@
                     Testimonials
                 </div>
             </div>
-            <div class="g-item g-item--lg push-top--large">
+            {{-- <div class="g-item g-item--lg push-top--large">
                 <div class="h2 ">
                     <i>"The only way people change is through experiences"</i> - <small>William Blake</small>
                 </div>
+            </div> --}}
+            <div class="g-item push-top--large">
+                <div class="h2 tr-basic tr-basic--enter">
+                    Yong Kang
+                </div>
+                <div class="push-top--large tr-basic tr-basic--enter">
+                    <p><i>"There is this Japanese saying, Ichigo Ichie, which means “Treasure every meeting, for it will never occur again.” This saying reminds me of The Men’s Group Singapore."</i></p><a href="articles/treasure-every-meeting" class="a a--in-text read-more">Read more</a>
+                </div>
             </div>
+            <div class="g-item g-item--col-2 push-top--large">
+                <div class="h2 tr-basic tr-basic--enter">
+                </div>
+                <div class="push-top--large tr-basic tr-basic--enter"><p></p></div>
+            </div>
+
             {{-- <div class="g-item g-item--lg">
                 <div class="list">
-                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">Daniel</div>
+                    <div class="description tr-basic list__item push-top--x-large tr-basic--enter">Yong Kang</div>
                     <div class="description tr-basic list__item push-top--x-large tr-basic--enter">Ian</div>
                     <div class="description tr-basic list__item push-top--x-large tr-basic--enter">Jeffrey</div>
                     <div class="description tr-basic list__item push-top--x-large tr-basic--enter">JT</div>
