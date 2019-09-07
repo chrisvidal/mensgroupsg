@@ -8,7 +8,9 @@
 
         <meta property="og:title" content="{{ $page->title ?  $page->title . ' | ' : '' }}{{ $page->siteName }}"/>
         <meta property="og:type" content="website" />
+        <meta property="og:site_name" content="{{ $page->siteName }}" />
         <meta property="og:url" content="{{ $page->getUrl() }}"/>
+        <meta property="og:image" content="">
         <meta property="og:description" content="{{ $page->siteDescription }}" />
 
         <title>{{ $page->siteName }}{{ $page->title ? ' | ' . $page->title : '' }}</title>
@@ -19,8 +21,16 @@
 
         @stack('meta')
 
-        @if ($page->production)
-            <!-- Insert analytics code here -->
+        @if ($page->production && $page->gaTrackingId)
+            <!-- Global site tag (gtag.js) - Google Analytics -->
+            <script async src="https://www.googletagmanager.com/gtag/js?id={{ $page->gaTrackingId }}"></script>
+            <script>
+                window.dataLayer = window.dataLayer || [];
+                function gtag(){dataLayer.push(arguments);}
+                window.gtag.UA = '{{ $page->gaTrackingId }}';
+                gtag('js', new Date());
+                gtag('config', '{{ $page->gaTrackingId }}');
+            </script>
         @endif
 
         <link href="https://fonts.googleapis.com/css?family=Muli:300,400,400i,500,600,700,800,900" rel="stylesheet">
