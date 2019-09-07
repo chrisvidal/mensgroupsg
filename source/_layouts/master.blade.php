@@ -8,9 +8,9 @@
 
         <meta property="og:title" content="{{ $page->title ?  $page->title . ' | ' : '' }}{{ $page->siteName }}"/>
         <meta property="og:type" content="website" />
-        <meta property="og:site_name" content="{{ $page->siteName }}" />
         <meta property="og:url" content="{{ $page->getUrl() }}"/>
-        <meta property="og:image" content="">
+        <meta property="og:site_name" content="{{ $page->siteName }}" />
+        <meta property="og:image" content="{{ $page->baseUrl }}assets/img/jack-sharp-ShCVvQbQBDk-unsplash.jpg">
         <meta property="og:description" content="{{ $page->siteDescription }}" />
 
         <title>{{ $page->siteName }}{{ $page->title ? ' | ' . $page->title : '' }}</title>
