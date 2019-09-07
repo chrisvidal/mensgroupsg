@@ -74,6 +74,10 @@
 
 /* scroll down */
 
+@media (max-width: 1000px) {
+    button.scroll_down { display: none; }
+}
+
 button.scroll_down {
   position: absolute;
   margin-left: auto;

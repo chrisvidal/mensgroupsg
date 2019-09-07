@@ -76,7 +76,9 @@ $body-bg: #34495e;
     // transform: translate3d(85%, -25%, 0px) rotate(90deg);
     // color: #bdc3c7;
 }
-
+.site-navigation__logo__expanded {
+    color: #fff;
+}
 @media (min-width: 1000px){
 
     .site-navigation__logo__right,

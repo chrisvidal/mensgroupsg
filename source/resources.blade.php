@@ -33,7 +33,7 @@
                         Men Need Men <small>- a 30min. documentary about Men's Group (2019)</small>
                     </div>
                     <div class="content__column  push-top--large">
-                        <iframe width="650" height="365" src="https://www.youtube.com/embed/OSMh6YonZbw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <iframe style="max-width: 100%;height: auto;" width="650" height="365" src="https://www.youtube.com/embed/OSMh6YonZbw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                 </div>
             </div>
