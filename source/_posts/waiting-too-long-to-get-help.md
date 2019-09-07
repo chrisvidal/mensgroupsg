@@ -17,5 +17,5 @@ I was for a long time. It is quite symptomatic of something that is going on dee
 
 Where does this stem from? What is going on there?
 Some lone wolf attitude mixed with shame to look weak are very often running the show.
-Sentences like "I got to do it myself" or "I will look like a pussy if I ask for help" are unfortunately too common in the world of men.
+Sentences like "I got to do it myself" or "I will look like a .... (fill in the blank yourself) if I ask for help" are unfortunately too common in the world of men.
 
