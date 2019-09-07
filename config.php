@@ -7,7 +7,7 @@ return [
     'siteDescription' => "Men's Group Singapore Website",
     'siteAuthor' => 'Christophe Vidal',
     // Google Analytics Tracking Id. For example, UA-123456789-1
-    'gaTrackingId' => 'UA-86167762-2',
+    'gaTrackingId' => 'UA-147344635-1',
 
     // collections
     'collections' => [
