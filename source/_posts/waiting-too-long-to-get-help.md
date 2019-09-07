@@ -2,7 +2,7 @@
 extends: _layouts.post
 section: content
 title: Waiting too long to ask for help
-date: 2019-06-27
+date: 2019-06-17
 published: true
 description: Waiting too long to ask for help
 cover_image: /assets/img/post-humility-cover-unsplash.jpg
