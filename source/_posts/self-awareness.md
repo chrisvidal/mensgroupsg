@@ -11,3 +11,6 @@ layouttype: markdown
 ---
 I strongly believe in self-awareness.
 
+Self-awareness gives you a choice. A conscious choice.
+
+Listening, connecting, flowing
