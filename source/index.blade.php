@@ -169,7 +169,7 @@
                     Manuel
                 </div>
                 <div class="push-top--large tr-basic tr-basic--enter">
-                    <p class="testimonial"><i>"I advise every man to try it at least once and find the same place of growth and sense of community I found Men's Group Singapore."</i></p><a href="articles/growth-and-community" class="a a--in-text read-more">Read more</a>
+                    <p class="testimonial"><i>"I advise every man to try it at least once and find the same place of growth and sense of community I found at the Men's Group Singapore."</i></p><a href="articles/growth-and-community" class="a a--in-text read-more">Read more</a>
                 </div>
             </div>
 
