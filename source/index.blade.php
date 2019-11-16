@@ -161,13 +161,16 @@
                     Yong Kang
                 </div>
                 <div class="push-top--large tr-basic tr-basic--enter">
-                    <p><i>"There is this Japanese saying, Ichigo Ichie, which means “Treasure every meeting, for it will never occur again.” This saying reminds me of The Men’s Group Singapore."</i></p><a href="articles/treasure-every-meeting" class="a a--in-text read-more">Read more</a>
+                    <p class="testimonial"><i>"There is this Japanese saying, Ichigo Ichie, which means “Treasure every meeting, for it will never occur again.” This saying reminds me of The Men’s Group Singapore."</i></p><a href="articles/treasure-every-meeting" class="a a--in-text read-more">Read more</a>
                 </div>
             </div>
             <div class="g-item g-item--col-2 push-top--large">
                 <div class="h2 tr-basic tr-basic--enter">
+                    Manuel
                 </div>
-                <div class="push-top--large tr-basic tr-basic--enter"><p></p></div>
+                <div class="push-top--large tr-basic tr-basic--enter">
+                    <p class="testimonial"><i>"I advise every man to try it at least once and find the same place of growth and sense of community I found on Mens Group SG."</i></p><a href="articles/growth-and-community" class="a a--in-text read-more">Read more</a>
+                </div>
             </div>
 
             {{-- <div class="g-item g-item--lg">
