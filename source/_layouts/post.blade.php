@@ -28,7 +28,7 @@
                 <p class="description push-top--large"><small>{{ $page->author }} ~ {{ date('F j, Y', $page->date) }}</small></p>
 
                 @if ($page->categories)
-                <small>[
+                <small class="category-list">[
                     @foreach ($page->categories as $i => $category)
                         <a
                             href="{{ '/articles/categories/' . $category }}"

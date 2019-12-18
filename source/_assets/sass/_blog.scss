@@ -2,3 +2,10 @@
 .title {
     @apply .font-normal;
 }
+.category-list a {
+    padding: 0 6px 0 4px;
+    border-right: 2px solid #ccc;
+    &:last-child {
+        border-right: none;
+    }
+}
