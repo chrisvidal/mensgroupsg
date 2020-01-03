@@ -1,0 +1,620 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"re pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst pa",
+				"Package Control: Install Package"
+			],
+			[
+				"ins pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Remove Package"
+			],
+			[
+				"inst pac",
+				"Package Control: Install Package"
+			],
+			[
+				"ins pac",
+				"Package Control: Install Package"
+			],
+			[
+				"bo",
+				"Boxy Theme: Preferences"
+			],
+			[
+				"inst pack",
+				"Package Control: Install Package"
+			],
+			[
+				"mater",
+				"Activate Materialize Theme"
+			],
+			[
+				"boxy",
+				"Boxy Theme: Preferences"
+			],
+			[
+				"acti",
+				"ayu: Activate theme"
+			],
+			[
+				"ins pa",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"isntall",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 171.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/christophevidal/Sites/mensgroupsg.info"
+	],
+	"file_history":
+	[
+		"/Users/christophevidal/Sites/oc-accm/themes/voilaah-accm-theme/version.yaml",
+		"/Users/christophevidal/Sites/oc-accm/themes/voilaah-accm-theme/partials/company/advanced.htm",
+		"/Users/christophevidal/Sites/oc-accm/themes/voilaah-accm-theme/partials/company/details.htm",
+		"/Users/christophevidal/Sites/oc-accm/themes/voilaah-accm-theme/partials/company/overview.htm",
+		"/Users/christophevidal/Sites/oc-accm/themes/voilaah-accm-theme/partials/component_blog/form_add_edit.htm",
+		"/Users/christophevidal/Sites/oc-accm/themes/voilaah-accm-theme/partials/event/default.htm",
+		"/Users/christophevidal/Sites/oc-accm/themes/voilaah-accm-theme/partials/event/overview.htm",
+		"/Users/christophevidal/Sites/oc-accm/themes/voilaah-accm-theme/partials/event-submit/details.htm",
+		"/Users/christophevidal/Sites/oc-accm/themes/voilaah-accm-theme/partials/event-submit/misc.htm",
+		"/Users/christophevidal/Sites/oc-accm/themes/voilaah-accm-theme/partials/event-submit/options.htm",
+		"/Users/christophevidal/Sites/oc-accm/themes/voilaah-accm-theme/partials/event-submit/preview.htm",
+		"/Users/christophevidal/Sites/oc-accm/themes/voilaah-accm-theme/partials/event-submit/registration.htm",
+		"/Users/christophevidal/Sites/oc-accm/themes/voilaah-accm-theme/partials/event-submit/steps.htm",
+		"/Users/christophevidal/Sites/oc-accm/themes/voilaah-accm-theme/partials/event-submit/submit.htm",
+		"/Users/christophevidal/Sites/oc-accm/themes/voilaah-accm-theme/partials/event-submit/ticket.htm",
+		"/Users/christophevidal/Sites/oc-accm/themes/voilaah-accm-theme/partials/events/filters.htm",
+		"/Users/christophevidal/Sites/oc-accm/themes/voilaah-accm-theme/partials/group/default.htm",
+		"/Users/christophevidal/Sites/oc-accm/themes/voilaah-accm-theme/partials/group/members_owners.htm",
+		"/Users/christophevidal/Sites/oc-accm/themes/voilaah-accm-theme/partials/group/overview.htm",
+		"/Users/christophevidal/Sites/oc-accm/themes/voilaah-accm-theme/partials/group-submit/preview.htm",
+		"/Users/christophevidal/Sites/oc-accm/themes/voilaah-accm-theme/partials/group-submit/steps.htm",
+		"/Users/christophevidal/Sites/oc-accm/themes/voilaah-accm-theme/partials/group-submit/submit.htm",
+		"/Users/christophevidal/Sites/oc-accm/themes/voilaah-accm-theme/partials/groups/filters.htm",
+		"/Users/christophevidal/Sites/oc-accm/themes/voilaah-accm-theme/partials/listing-submit/submit.htm",
+		"/Users/christophevidal/Sites/oc-accm/themes/voilaah-accm-theme/partials/marketplaces/filters.htm",
+		"/Users/christophevidal/Sites/oc-accm/themes/voilaah-accm-theme/partials/proposal-submit/_options.htm",
+		"/Users/christophevidal/Sites/oc-accm/themes/voilaah-accm-theme/partials/proposal-submit/submit.htm",
+		"/Users/christophevidal/Sites/oc-accm/themes/voilaah-accm-theme/partials/resetpassword/complete.htm",
+		"/Users/christophevidal/Sites/oc-accm/themes/voilaah-accm-theme/partials/resetpassword/default.htm",
+		"/Users/christophevidal/Sites/oc-accm/themes/voilaah-accm-theme/partials/resetpassword/reset.htm",
+		"/Users/christophevidal/Sites/oc-accm/themes/voilaah-accm-theme/partials/resetpassword/restore.htm",
+		"/Users/christophevidal/Sites/oc-accm/themes/voilaah-accm-theme/partials/rfqs/filters.htm",
+		"/Users/christophevidal/Sites/oc-accm/plugins/voilaah/astar/console/SeedTestsData.php",
+		"/Users/christophevidal/Sites/oc-accm/plugins/voilaah/astar/classes/seeders/FakeUsersSeeder.php",
+		"/Users/christophevidal/Sites/oc-accm/plugins/voilaah/accm-tracker/README.md",
+		"/Users/christophevidal/Sites/oc-accm/plugins/voilaah/astar/models/UserEventLog.php",
+		"/Users/christophevidal/Sites/oc-accm/themes/voilaah-accm-theme/pages/account/myaccount.htm",
+		"/Users/christophevidal/Sites/oc-accm/plugins/voilaah/astar/updates/version.yaml",
+		"/Users/christophevidal/Sites/oc-accm/plugins/voilaah/astar/models/ContactForm.php",
+		"/Users/christophevidal/Sites/oc-accm/plugins/voilaah/astar/classes/registration/BootExtensions.php",
+		"/Users/christophevidal/Sites/oc-accm/plugins/voilaah/astar/console/SeedFakeData.php",
+		"/Users/christophevidal/Sites/oc-accm/plugins/voilaah/TODO.md",
+		"/Users/christophevidal/Sites/oc-accm/themes/voilaah-accm-theme/layouts/static.htm",
+		"/Users/christophevidal/Sites/oc-accm/plugins/voilaah/astar/controllers/usereventlogs/config_form.yaml",
+		"/Users/christophevidal/Sites/oc-voilaah/themes/oc-mrc-theme-v1-master/partials/feedback/default.htm",
+		"/Users/christophevidal/Sites/oc-voilaah/themes/oc-mrc-theme-v1-master/partials/applicants/default.htm",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/offline/snipcartshop/components/product/custom-fields/price-calculation.htm",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/netsti/connections/controllers/events/index.htm",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/jiri/jkshop/components/productdetail/default.htm",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/autumn/messages/components/notifications/default.htm",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/abwebdevelopers/forms/components/customform/form.htm",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/jiri/jkshop/controllers/paymentgateways/_parameters_field.htm",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/clake/userextended/components/thirdparty/facebook_login.htm",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/initbiz/cumuluscore/init.php",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/abnmt/mrc/Plugin.php",
+		"/Users/christophevidal/Sites/oc-voilaah/themes/ketikidis-clear/partials/site/meta.htm",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/rainlab/forum/Plugin.php",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/abnmt/may/components/Projects.php",
+		"/Users/christophevidal/Sites/oc-voilaah/themes/ketikidis-clear/partials/blocks/team.htm",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/abnmt/may/components/projects/default.htm",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/responsiv/pay/classes/GatewayBase.php",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/frozendo/pagepreview/Plugin.php",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/responsiv/pyrolancer/Plugin.php",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/responsiv/pyrolancer/models/settings/fields.yaml",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/abnmt/mrc/models/CourseDirection.php",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/abnmt/crm/models/Direction.php",
+		"/Users/christophevidal/Sites/oc-voilaah/themes/spbmrc/partials/sections/contacts.htm",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/ideas/shop/assets/js/helpers.js",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/ideas/shop/views/product/attribute.htm",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/lovata/buddies/models/Property.php",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/rainlab/user/controllers/Users.php",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/abnmt/mrc/controllers/Users.php",
+		"/Users/christophevidal/Sites/oc-voilaah/themes/rainlab-relax/layouts/chair.htm",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/jiri/jkshop/models/Product.php",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/jiri/jkshop/controllers/products/config_relation.yaml",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/lovata/goodnews/models/article/fields.yaml",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/jiri/jkshop/models/productpropertyoptionpivot/fields.yaml",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/jiri/jkshop/models/settings/fields.yaml",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/responsiv/pyrolancer/components/ProjectSubmit.php",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/responsiv/pyrolancer/classes/ProjectData.php",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/responsiv/pyrolancer/traits/ComponentUtils.php",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/jetminds/job/models/Category.php",
+		"/Users/christophevidal/Sites/oc-voilaah/themes/spbmrc/pages/learning/presidential.htm",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/renatio/formbuilder/init.php",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/responsiv/pyrolancer/models/ProjectCategory.php",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/abwebdevelopers/forms/updates/initialise_database.php",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/frozendo/pagepreview/formwidgets/pagepreview/assets/js/pagepreview.js",
+		"/Users/christophevidal/Sites/oc-voilaah/themes/spbmrc/partials/mrcCourse/teachers.htm",
+		"/Users/christophevidal/Sites/oc-voilaah/themes/spbmrc/partials/mrcCourse/gallery.htm",
+		"/Users/christophevidal/Sites/oc-voilaah/themes/spbmrc/partials/mrcCourse/default.htm",
+		"/Users/christophevidal/Sites/oc-voilaah/themes/spbmrc/partials/blocks/scripts.htm",
+		"/Users/christophevidal/Sites/oc-voilaah/themes/spbmrc/pages/news/post.htm",
+		"/Users/christophevidal/Sites/oc-voilaah/themes/rainlab-relax/pages/blog.htm",
+		"/Users/christophevidal/Sites/oc-voilaah/themes/rainlab-relax/pages/account.htm",
+		"/Users/christophevidal/Sites/oc-voilaah/themes/rainlab-relax/layouts/home.htm",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/briddle/pay/controllers/Recurring.php",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/acme/formist/controllers/customers/config_relation.yaml",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/ideas/shop/controllers/coupon/create/_category.htm",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/lovata/ordersshopaholic/classes/event/ExtendUserModelHandler.php",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/abnmt/theater/models/Performance.php",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/renatio/formbuilder/models/Form.php",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/jiri/jkshop/models/Settings.php",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/responsiv/pyrolancer/models/Attribute.php",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/responsiv/pyrolancer/models/Settings.php",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/responsiv/pay/models/Invoice.php",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/responsiv/pyrolancer/classes/Worker.php",
+		"/Users/christophevidal/Sites/oc-voilaah/themes/spbmrc/pages/personal/forgot-password.htm",
+		"/Users/christophevidal/Sites/oc-voilaah/themes/simpleweb-uikit2/partials/site/offcanvasmobile.htm",
+		"/Users/christophevidal/Sites/oc-voilaah/themes/simpleweb-uikit2/partials/site/headermenu.htm",
+		"/Users/christophevidal/Sites/oc-voilaah/themes/simpleweb-uikit2/pages/blog/post.htm",
+		"/Users/christophevidal/Sites/oc-voilaah/themes/shopaholic-demo/pages/product.htm",
+		"/Users/christophevidal/Sites/oc-voilaah/themes/rainlab-vanilla/pages/blog/post.htm",
+		"/Users/christophevidal/Sites/oc-voilaah/themes/rainlab-relax/pages/blog/post.htm",
+		"/Users/christophevidal/Sites/oc-voilaah/themes/rainlab-relax/pages/forgot-password.htm",
+		"/Users/christophevidal/Sites/oc-voilaah/themes/npkpvs-oc-npkpvs-theme-dev/pages/publikatsii.htm",
+		"/Users/christophevidal/Sites/oc-voilaah/themes/npkpvs-oc-npkpvs-theme-dev/pages/objects.htm",
+		"/Users/christophevidal/Sites/oc-voilaah/themes/npkpvs-oc-npkpvs-theme-dev/pages/customers.htm",
+		"/Users/christophevidal/Sites/oc-voilaah/themes/npkpvs-oc-npkpvs-theme-dev/pages/article.htm",
+		"/Users/christophevidal/Sites/oc-voilaah/themes/jiri-jiri-jkshop-bootstrap/partials/95-footer.htm",
+		"/Users/christophevidal/Sites/oc-voilaah/themes/jiri-jiri-jkshop-bootstrap/partials/05-navigation.htm",
+		"/Users/christophevidal/Sites/oc-voilaah/themes/jiri-jiri-jkshop-bootstrap/layouts/action-default.htm",
+		"/Users/christophevidal/Sites/oc-voilaah/themes/ideas-ideasshoptemplatesimple/partials/post/sidebar.htm",
+		"/Users/christophevidal/Sites/oc-voilaah/themes/ideas-ideasshoptemplatesimple/pages/blogList.htm",
+		"/Users/christophevidal/Sites/oc-voilaah/themes/demo/pages/ajax.htm",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/renatio/formbuilder/listeners/EmailSend.php",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/renatio/formbuilder/listeners/FormEmail.php",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/offline/snipcartshop/Plugin.php",
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/martin/forms/Plugin.php"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 119.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 45.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 144.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "mensgroupsg.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"model UserEventLog",
+				"plugins/voilaah/astar/models/UserEventLog.php"
+			],
+			[
+				"offli plugin",
+				"plugins/offline/snipcartshop/plugin.yaml"
+			],
+			[
+				"plugin.yaml",
+				"plugins/offline/snipcartshop/plugin.yaml"
+			],
+			[
+				"oductpropertyoptionpivot/fields.yaml  ",
+				"plugins/jiri/jkshop/models/productpropertyoptionpivot/fields.yaml"
+			],
+			[
+				"Abnmt\\CRM\\Models\\Direction",
+				"plugins/abnmt/crm/models/Direction.php"
+			],
+			[
+				"model job php",
+				"plugins/jetminds/job/models/Category.php"
+			],
+			[
+				"init.php",
+				"plugins/renatio/formbuilder/init.php"
+			],
+			[
+				"sponsiv\\Pyrolancer\\Classes\\Worker",
+				"plugins/responsiv/pyrolancer/classes/Worker.php"
+			],
+			[
+				"webhook",
+				"plugins/ideas/shop/vendor/stripe/stripe-php/lib/Webhook.php"
+			],
+			[
+				"usere plugin.php",
+				"plugins/clake/userextended/Plugin.php"
+			],
+			[
+				"pyrolancer plugin",
+				"plugins/responsiv/pyrolancer/Plugin.php"
+			],
+			[
+				"inlab/userplus/config/profile_fields.y",
+				"plugins/rainlab/userplus/config/profile_fields.yaml"
+			],
+			[
+				"s/reservationsexport/fields.yaml",
+				"plugins/vojtasvoboda/reservations/models/reservationsexport/fields.yaml"
+			],
+			[
+				"responsiv pay manager",
+				"plugins/responsiv/pay/classes/GatewayManager.php"
+			],
+			[
+				"blog/models/postimport/fields.yaml",
+				"plugins/rainlab/blog/models/postimport/fields.yaml"
+			],
+			[
+				"config_filter.yaml",
+				"modules/backend/controllers/users/config_filter.yaml"
+			],
+			[
+				"config_filter",
+				"plugins/abnmt/mrc/controllers/courses/config_filter.yaml"
+			],
+			[
+				"rainlab blog model cate",
+				"plugins/rainlab/blog/models/Category.php"
+			],
+			[
+				"plugin.php",
+				"plugins/abnmt/mrc/Plugin.php"
+			],
+			[
+				"contr invoic column_status",
+				"plugins/responsiv/pay/controllers/invoices/_column_status.htm"
+			],
+			[
+				"controll invoice",
+				"plugins/responsiv/pay/controllers/Invoices.php"
+			],
+			[
+				"responsiv contro invoic",
+				"plugins/responsiv/pay/controllers/invoices/_invoice_iframe.htm"
+			],
+			[
+				"config/clusters_field.",
+				"plugins/initbiz/cumuluscore/config/clusters_field.yaml"
+			],
+			[
+				"RainLab\\User\\Controllers\\Users",
+				"plugins/rainlab/user/controllers/Users.php"
+			],
+			[
+				"rainlab compo posts",
+				"plugins/rainlab/blog/components/Posts.php"
+			],
+			[
+				"invoice",
+				"plugins/responsiv/pay/models/Invoice.php"
+			],
+			[
+				"pay model invoi",
+				"plugins/responsiv/pay/models/Invoice.php"
+			],
+			[
+				"sys",
+				"storage/logs/system.log"
+			],
+			[
+				"resume",
+				"plugins/jetminds/job/models/Resume.php"
+			],
+			[
+				"plugins updates update php",
+				"plugins/jiri/jkshop/updates/update_statuses_160.php"
+			],
+			[
+				"config/config.php",
+				"plugins/vojtasvoboda/reservations/config/config.php"
+			],
+			[
+				"plugins pay models",
+				"plugins/responsiv/pay/models/InvoiceStatus.php"
+			],
+			[
+				"importexportcontroller/partials/_export_columns",
+				"modules/backend/behaviors/importexportcontroller/partials/_export_columns.htm"
+			],
+			[
+				"paypalpro",
+				"themes/rainlab-vanilla/partials/pay/paypalpro.htm"
+			],
+			[
+				"plugins jiri compon orders",
+				"plugins/jiri/jkshop/components/MyOrders.php"
+			],
+			[
+				"respons mo paym",
+				"plugins/responsiv/pay/vendor/guzzle/guzzle/tests/Guzzle/Tests/TestData/mock_response"
+			],
+			[
+				"responsiv pay",
+				"plugins/responsiv/pay/components/Payment.php"
+			],
+			[
+				"reservations settings",
+				"plugins/vojtasvoboda/reservations/models/Settings.php"
+			],
+			[
+				"themes flash",
+				"themes/offline-oc-snipcartshop-theme/partials/flash.htm"
+			],
+			[
+				"routes.php",
+				"plugins/rainlab/sitemap/routes.php"
+			],
+			[
+				"generals",
+				"plugins/offline/snipcartshop/models/GeneralSettings.php"
+			],
+			[
+				"flash",
+				"themes/offline-oc-snipcartshop-theme/partials/flash.htm"
+			],
+			[
+				"buddies lang.php",
+				"plugins/lovata/buddies/lang/en/lang.php"
+			],
+			[
+				"buddies lang.ph",
+				"plugins/lovata/buddies/lang/en/lang.php"
+			],
+			[
+				"October\\Rain\\Auth\\Manager",
+				"vendor/october/rain/src/Auth/Manager.php"
+			],
+			[
+				"userpage",
+				"plugins/lovata/buddies/components/UserPage.php"
+			],
+			[
+				"\\Facades\\AuthHelper",
+				"plugins/lovata/buddies/facades/AuthHelper.php"
+			],
+			[
+				"home-simple-carousel",
+				"themes/ketikidis-clear/content/static-pages/home-simple-carousel.htm"
+			],
+			[
+				"lovata model category",
+				"plugins/lovata/goodnews/models/Category.php"
+			],
+			[
+				"plugins plugin.yaml",
+				"plugins/initbiz/cumuluscore/plugin.yaml"
+			],
+			[
+				"them home/welcome",
+				"plugins/ideas/shop/components/theme/home/welcome.htm"
+			],
+			[
+				"plugins routes.php",
+				"plugins/offline/snipcartshop/routes.php"
+			],
+			[
+				"doc conte",
+				"plugins/vodka/api/views/doc/content.htm"
+			],
+			[
+				"categ",
+				"plugins/vodka/api/classes/transformers/CategoryTransformer.php"
+			],
+			[
+				"api categor",
+				"plugins/vodka/api/http/api/Categories.php"
+			],
+			[
+				"restc",
+				"plugins/voilaah/restapi/behaviors/RestController.php"
+			],
+			[
+				"Illuminate\\Http\\Request",
+				"vendor/laravel/framework/src/Illuminate/Http/Request.php"
+			],
+			[
+				"model produ",
+				"plugins/jiri/jkshop/models/Product.php"
+			],
+			[
+				"conten.htm",
+				"plugins/vodka/api/views/doc/content.htm"
+			],
+			[
+				"restcon",
+				"plugins/voilaah/restapi/behaviors/RestController.php"
+			],
+			[
+				"system",
+				"storage/logs/system.log"
+			],
+			[
+				"jir model produ",
+				"plugins/jiri/jkshop/models/Product.php"
+			],
+			[
+				"jiri model cate",
+				"plugins/jiri/jkshop/models/Category.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 396.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
