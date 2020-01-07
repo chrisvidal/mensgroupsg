@@ -7,6 +7,16 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "source/_posts/why-a-mens-group.md",
+			"settings":
+			{
+				"buffer_size": 1603,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "---"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -104,10 +114,16 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/christophevidal/Sites/mensgroupsg.info"
+		"/Users/christophevidal/Sites/mensgroupsg.info",
+		"/Users/christophevidal/Sites/mensgroupsg.info/source",
+		"/Users/christophevidal/Sites/mensgroupsg.info/source/_posts",
+		"/Users/christophevidal/Sites/mensgroupsg.info/tasks"
 	],
 	"file_history":
 	[
+		"/Users/christophevidal/Sites/mensgroupsg.info/source/_posts/every-man-needs-a-mens-group.md",
+		"/Users/christophevidal/Sites/mensgroupsg.info/source/index.blade.php",
+		"/Users/christophevidal/Sites/mensgroupsg.info/source/_assets/sass/_utilities.scss",
 		"/Users/christophevidal/Sites/oc-accm/themes/voilaah-accm-theme/version.yaml",
 		"/Users/christophevidal/Sites/oc-accm/themes/voilaah-accm-theme/partials/company/advanced.htm",
 		"/Users/christophevidal/Sites/oc-accm/themes/voilaah-accm-theme/partials/company/details.htm",
@@ -232,10 +248,7 @@
 		"/Users/christophevidal/Sites/oc-voilaah/themes/ideas-ideasshoptemplatesimple/partials/post/sidebar.htm",
 		"/Users/christophevidal/Sites/oc-voilaah/themes/ideas-ideasshoptemplatesimple/pages/blogList.htm",
 		"/Users/christophevidal/Sites/oc-voilaah/themes/demo/pages/ajax.htm",
-		"/Users/christophevidal/Sites/oc-voilaah/plugins/renatio/formbuilder/listeners/EmailSend.php",
-		"/Users/christophevidal/Sites/oc-voilaah/plugins/renatio/formbuilder/listeners/FormEmail.php",
-		"/Users/christophevidal/Sites/oc-voilaah/plugins/offline/snipcartshop/Plugin.php",
-		"/Users/christophevidal/Sites/oc-voilaah/plugins/martin/forms/Plugin.php"
+		"/Users/christophevidal/Sites/oc-voilaah/plugins/renatio/formbuilder/listeners/EmailSend.php"
 	],
 	"find":
 	{
@@ -246,6 +259,7 @@
 		"height": 119.0,
 		"where_history":
 		[
+			""
 		]
 	},
 	"find_state":
@@ -253,6 +267,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			".push-top--large"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -270,8 +285,40 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "source/_posts/why-a-mens-group.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1603,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								86,
+								86
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_name": "---",
+							"function_name_status_row": 4,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],

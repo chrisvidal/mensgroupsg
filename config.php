@@ -5,14 +5,14 @@ return [
     'production' => false,
     'siteName' => "Men's Group Singapore",
     'siteDescription' => "Men's Group Singapore Website",
-    'siteAuthor' => 'Christophe Vidal',
+    'siteAuthor' => 'Christophe',
     // Google Analytics Tracking Id. For example, UA-123456789-1
     'gaTrackingId' => 'UA-147344635-1',
 
     // collections
     'collections' => [
         'posts' => [
-            'author' => 'Christophe Vidal', // Default author, if not provided in a post
+            'author' => 'Christophe', // Default author, if not provided in a post
             'sort' => '-date',
             'path' => 'articles/{filename}',
         ],
