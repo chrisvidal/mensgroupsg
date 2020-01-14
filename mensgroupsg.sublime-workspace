@@ -16,6 +16,25 @@
 				"line_ending": "Unix",
 				"name": "---"
 			}
+		},
+		{
+			"file": "config.php",
+			"settings":
+			{
+				"buffer_size": 2402,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "source/_posts/you-must-be-the-change.md",
+			"settings":
+			{
+				"buffer_size": 509,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "---"
+			}
 		}
 	],
 	"build_system": "",
@@ -285,7 +304,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -310,6 +329,67 @@
 							"auto_complete": false,
 							"auto_name": "---",
 							"function_name_status_row": 4,
+							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "config.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2402,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								218,
+								218
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"function_name_status_row": 7,
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "source/_posts/you-must-be-the-change.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 509,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								509,
+								509
+							]
+						],
+						"settings":
+						{
+							"auto_complete": false,
+							"auto_name": "---",
+							"function_name_status_row": 17,
 							"syntax": "Packages/Markdown/Markdown.sublime-syntax"
 						},
 						"translation.x": 0.0,

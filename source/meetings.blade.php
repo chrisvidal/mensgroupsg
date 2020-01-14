@@ -31,12 +31,12 @@
                     <div class="h2">Weekly Meetings</div>
                     <div class="push-top--large">
                         <p>We meet every Tuesday's evening. The session commences at 730pm.</p>
-                        <p>The meetings are held in Holland Village or China Town.</p>
+                        <p>The meetings are currently held in China Town.</p>
                         <p>You can register to our <a class="a a--in-text" href="https://www.meetup.com/The-Mens-Group-Singapore/" target="_blank">meetup's group</a> to get the full schedule and venue's.</p>
                         <p class="push-top--large">You are invited to bring along:</p>
                     </div>
                     <ul class="ul push-top description">
-                        <li>Comfy clothes</li><li>Notebook</li><li>Pen</li><li>Water Bottle</li></ul>
+                        <li>Comfy clothes</li><li>Notebook</li><li>Pen</li><li>Water Bottle</li><li>your own meditation cushion if you have</li></ul>
                 </div>
             </div>
             {{-- <div class="g-item g-item--col-2 push-top--large">
