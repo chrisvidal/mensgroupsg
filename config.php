@@ -11,6 +11,11 @@ return [
 
     // collections
     'collections' => [
+        'events' => [
+            'author' => 'Christophe', // Default author, if not provided in a post
+            'sort' => '-date',
+            'path' => 'events/{filename}',
+        ],
         'posts' => [
             'author' => 'Christophe', // Default author, if not provided in a post
             'sort' => '-date',
