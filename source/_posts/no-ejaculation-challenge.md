@@ -6,7 +6,7 @@ date: 2019-12-18
 published: true
 description: 7 days No Ejaculation Challenge
 cover_image: /assets/img/post-humility-cover-unsplash.jpg
-categories: [practice, presence, consciousness, depths, sex, great sex, numbing]
+categories: [practice, presence, consciousness, depths, sex, great sex, numbing, nofap, noejac]
 layouttype: markdown
 ---
 A No-Ejaculation Challenge is currently happening for some of the men in the group. Five of them to be precise.
