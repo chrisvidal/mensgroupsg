@@ -4,6 +4,7 @@
 @section('side_navigation')
 <ul>
     <li class="site-navigation__item"><a href="#documentary" class="a site-navigation__link scroll"># documentary</a></li>
+    <li class="site-navigation__item"><a href="#movies" class="a site-navigation__link scroll"># Movies</a></li>
     <li class="site-navigation__item"><a href="#articles" class="a site-navigation__link scroll"># Articles</a></li>
     <li class="site-navigation__item"><a href="#books" class="a site-navigation__link scroll"># books</a></li>
 </ul>
@@ -35,6 +36,34 @@
                     </div>
                     <div class="content__column  push-top--large">
                         <iframe style="max-width: 100%;height: auto;" width="650" height="365" src="https://www.youtube.com/embed/OSMh6YonZbw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<section class="section content section--full intro" id="movies">
+    <div class="section__content">
+        <div class="g">
+            <div class="g-item g-item--lg">
+                <div class="title">Movies</div>
+            </div>
+            <div class="g-item g-item--lg push-top--x-large">
+                <div class="g-sub">
+                    <div class="g-sub-item">
+                        <p>About the human conditions</p>
+                        <ul class="ul description push-top">
+                            <li># <a href="https://www.youtube.com/watch?v=H1GG6o-hPEA" target="_blank" rel="noopener noreferrer">Spring Summer Fall Winter and Spring, 2003</a></li>
+                        </ul>
+                    </div>
+                    <div class="g-sub-item">
+                        <p>&nbsp;</p>
+                        <ul class="ul description push-top">
+                            <li># <a href="https://www.youtube.com/watch?v=Bw9zSMsKcwk" target="_blank" rel="noopener noreferrer">Samadhi Movie, 2017 - Part 1 - "Maya, the Illusion of the Self"</a></li>
+                            <li># <a href="https://www.youtube.com/watch?v=AQL6qcGqQ0Y" target="_blank" rel="noopener noreferrer">Samadhi Movie, 2018 - Part 2 - "It's Not What You Think"</a></li>
+                        </ul>
                     </div>
                 </div>
             </div>
@@ -140,6 +169,8 @@
         </div>
     </div>
 </section>
+
+
 
 <div class="spacer">
     <div class="spacer__unit"></div>
