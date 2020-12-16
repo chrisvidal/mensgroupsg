@@ -53,6 +53,10 @@
             <div class="g-item g-item--lg push-top--x-large">
                 <div class="g-sub">
                     <div class="g-sub-item">
+                        <p>About being a man</p>
+                        <ul class="ul description push-top">
+                            <li># <a href="https://www.youtube.com/watch?v=Cetg4gu0oQQ" target="_blank" rel="noopener noreferrer">Why I'm done trying to be "man enough", 2018</a></li>
+                        </ul>
                         <p>About the human conditions</p>
                         <ul class="ul description push-top">
                             <li># <a href="https://www.youtube.com/watch?v=H1GG6o-hPEA" target="_blank" rel="noopener noreferrer">Spring Summer Fall Winter and Spring, 2003</a></li>

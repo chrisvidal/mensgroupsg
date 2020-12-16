@@ -30,7 +30,7 @@ pagination:
             <div class="g">
                 <div class="g-item g-item--lg">
                     <h1 class="h1">Articles</h1>
-                    <p class="blog__total">Total of {{ $publishedPosts->count() }} articles</p>
+                    <p class="blog__total">Total of {{ $posts->count() }} articles</p>
                 </div>
                 <div class="g-item g-item--lg push-top--large">
 
