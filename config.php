@@ -11,10 +11,10 @@ return [
 
     // collections
     'collections' => [
-        'events' => [
+        'offerings' => [
             'author' => 'Christophe', // Default author, if not provided in a post
             'sort' => '-date',
-            'path' => 'events/{filename}',
+            'path' => 'offerings/{filename}',
         ],
         'posts' => [
             'author' => 'Christophe', // Default author, if not provided in a post

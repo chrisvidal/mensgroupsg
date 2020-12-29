@@ -7,7 +7,7 @@
                 <div class="g-item">
                     <h2 class="h2 tr-basic tr-basic--enter">Contact</h2>
                     <div class="push-top--large tr-basic tr-basic--enter"><p>Have a question?</p></div>
-                    <div class="description push-top tr-basic tr-basic--enter">{{-- <a href="mailto:gentleman@incarnatedman.com">gentleman@incarnatedman.com</a --}}></div>
+                    <div class="description push-top tr-basic tr-basic--enter"><a href="mailto:info@braveheartmen.training">info@braveheartmen.training</a></div>
                 </div>
                 <div class="g-item g-item--col-2">
                     <div class="tr-basic tr-basic--enter">

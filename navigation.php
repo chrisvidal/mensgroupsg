@@ -10,7 +10,7 @@ return [
     // ],
     'About' => '/',
     'Meetings' => '/meetings',
-    'Events' => '/events',
+    'Offerings' => '/offerings',
     'Resources' => '/resources',
     'Articles' => '/articles',
     'Contact' => '/contact',
